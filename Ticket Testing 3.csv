@@ -1,0 +1,1001 @@
+#,Title,State,Priority,Group,Owner,Customer,Organization,Create Channel,Sender,Tags,Time Units,Pending till,Created At,Updated At,Closed At
+2897592,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-30,2023-10-24,2023-02-21
+2557105,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-09-26,2023-11-11,2023-08-22
+2783395,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-07-12,2023-01-27,2023-08-18
+2895870,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-10-03,2023-05-13,2023-05-13
+2212413,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-05-25,2023-04-21,2023-04-04
+2140505,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-10-30,2023-08-29,2023-03-21
+2677878,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-04-21,2023-07-06,2023-05-08
+2798945,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-07-11,2023-01-19,2024-01-05
+2340724,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-07,2023-05-16,2023-12-04
+2299828,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-08,2023-11-21,2023-01-24
+2524907,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-05-24,2023-08-11,2023-10-26
+2398814,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-03-24,2023-01-23,2023-02-08
+2176866,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-03-17,2023-01-19,2023-12-13
+2705516,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-04-09,2023-11-23,2023-03-10
+2186890,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-03-19,2023-11-28,2023-01-15
+2670639,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-04-15,2023-01-05,2023-08-23
+2056823,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-07-20,2023-05-15,2023-02-09
+2980054,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-07-01,2023-01-16,2023-05-18
+2447973,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-08-25,2023-08-04,2023-12-17
+2245431,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-10-27,2023-04-04,2023-02-02
+2695394,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-09-05,2023-09-26,2023-11-05
+2099803,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-05-11,2023-07-13,2023-09-15
+2371359,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-11-24,2023-08-08,2023-12-14
+2100664,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-03-04,2023-02-09,2023-09-20
+2784393,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-03-21,2023-10-06,2023-11-09
+2033267,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-03-21,2023-09-10,2023-02-11
+2226217,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-03-03,2023-12-23,2023-11-12
+2297268,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-05-19,2023-12-07,2023-01-26
+2240442,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-13,2023-06-01,2023-04-10
+2689854,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-01-15,2023-11-17,2023-05-10
+2577527,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-08-19,2023-01-30,2023-08-06
+2712685,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-11-10,2023-09-16,2023-02-07
+2688253,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-12-08,2023-09-08,2023-10-15
+2473873,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-12-07,2023-10-03,2023-05-23
+2715872,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-09-09,2023-04-04,2023-01-01
+2708283,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-10-05,2023-03-24,2024-01-07
+2396207,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-03-22,2023-08-15,2023-07-26
+2375691,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-06-18,2023-09-05,2023-10-21
+2351888,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-03-11,2023-07-13,2023-11-01
+2182414,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-01-26,2023-10-17,2023-10-29
+2335967,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-08-28,2023-03-27,2023-06-17
+2035367,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-11-24,2023-11-03,2023-07-11
+2189146,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-06-15,2023-12-10,2023-04-04
+2843071,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-06-15,2023-03-03,2023-03-27
+2745483,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-01-13,2024-01-03,2023-06-20
+2158751,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-07-03,2023-10-30,2023-10-12
+2647141,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-03-30,2023-10-06,2023-01-19
+2810187,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-10-18,2023-07-22,2023-05-08
+2535735,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-10-28,2023-12-13,2023-05-22
+2297363,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-05-06,2023-12-31,2023-12-25
+2715422,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-04-04,2023-05-30,2023-03-26
+2697666,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-05-19,2023-05-21,2023-03-13
+2905587,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-11-20,2024-01-07,2023-11-18
+2513093,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-11-01,2023-03-27,2023-06-15
+2103138,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-10-08,2023-03-25,2023-11-23
+2984218,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-04-20,2023-10-16,2023-11-11
+2351685,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-04-19,2023-12-06,2023-07-13
+2570304,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-10-20,2023-06-14,2023-12-02
+2580981,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-10-29,2023-07-20,2023-11-25
+2678333,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-10-25,2023-04-19,2023-06-20
+2978786,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-02-16,2023-04-29,2023-02-09
+2963145,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-08-15,2023-11-07,2023-04-27
+2850364,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-11-03,2023-08-11,2023-11-04
+2581121,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-11-22,2023-05-31,2023-02-24
+2907125,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-06-15,2023-06-10,2023-12-06
+2671227,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-10-10,2023-02-26,2023-09-22
+2003921,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-12-01,2023-08-18,2023-04-17
+2437354,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-02-06,2023-05-19,2023-06-24
+2534545,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-10-13,2023-06-09,2023-10-03
+2794502,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-08-06,2023-01-28,2023-10-25
+2899077,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-11-27,2023-03-06,2023-07-25
+2087206,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-05-30,2023-09-21,2023-02-13
+2527232,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2024-01-01,2023-12-25,2023-06-30
+2610859,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-12-21,2023-12-06,2023-11-13
+2847934,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-11-11,2023-05-08,2023-08-25
+2055410,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-01-01,2023-04-09,2023-08-12
+2919497,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-04-29,2023-03-18,2023-04-20
+2921351,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-11-03,2023-08-26,2023-05-20
+2517430,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-07-21,2023-04-05,2023-08-17
+2091330,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-03-09,2023-10-09,2023-05-21
+2185407,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-10-12,2023-09-26,2023-03-09
+2354532,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-07-12,2023-06-26,2023-12-27
+2255327,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-06-12,2024-01-07,2023-06-08
+2847207,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-12-16,2023-08-26,2023-02-14
+2263192,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-03-26,2023-01-15,2023-04-24
+2411723,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-09-23,2023-07-01,2023-09-16
+2756202,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-02-22,2023-11-04,2023-06-26
+2509477,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-11-04,2023-08-06,2023-12-11
+2580151,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-08-08,2023-07-26,2023-05-07
+2912380,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-06-02,2023-08-11,2023-10-27
+2302084,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-02-17,2023-10-04,2023-03-23
+2924059,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-02-12,2023-09-21,2023-08-10
+2622713,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-10-31,2023-05-04,2023-01-16
+2992009,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-05-10,2023-06-24,2023-01-24
+2340800,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-09-06,2023-03-04,2023-04-18
+2949869,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-12-18,2023-06-17,2023-09-25
+2686918,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-02-28,2023-05-01,2023-01-19
+2073453,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-07-20,2023-12-12,2023-08-28
+2363866,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-06-22,2023-10-24,2023-08-31
+2946834,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-12-15,2023-07-25,2024-01-03
+2564322,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-05-24,2023-12-03,2023-12-26
+2646482,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-03-30,2023-07-21,2023-02-23
+2655544,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-12-29,2023-03-13,2023-04-27
+2504904,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-07-06,2023-11-01,2023-04-24
+2418561,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-03-12,2023-01-31,2023-10-21
+2937572,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-06-04,2023-09-30,2023-01-21
+2021854,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-05-01,2023-06-13,2023-03-08
+2793759,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-10-23,2023-06-15,2023-05-31
+2737059,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-09-07,2023-04-10,2023-03-05
+2398233,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-12-04,2023-06-14,2023-08-25
+2436994,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-08-23,2023-02-18,2023-04-29
+2313840,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-01-10,2023-07-12,2023-06-03
+2499480,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2024-01-01,2023-02-05,2023-09-08
+2809324,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-06-25,2024-01-01,2023-12-15
+2538063,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-08-28,2023-07-01,2023-11-17
+2116928,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-01-26,2023-07-12,2023-11-24
+2845852,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-05-26,2023-03-16,2023-03-11
+2959944,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-14,2023-11-18,2023-12-31
+2877349,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-11-01,2023-05-28,2023-06-10
+2450523,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-11-22,2023-11-17,2023-06-11
+2935158,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-12-03,2023-12-16,2023-07-19
+2896051,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-06-12,2023-09-11,2023-11-10
+2042073,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-06-10,2023-11-07,2023-02-10
+2397826,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-04-25,2023-08-12,2023-01-02
+2649188,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2024-01-05,2023-04-17,2023-10-04
+2256042,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-01-06,2023-06-28,2023-05-12
+2724985,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-11-21,2023-03-16,2023-01-28
+2591484,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-04-20,2023-09-24,2023-05-30
+2553478,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-05-16,2023-04-25,2023-07-06
+2801564,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-08-10,2023-01-07,2023-09-14
+2199054,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-31,2023-09-21,2023-05-12
+2825824,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-10-10,2023-04-26,2023-06-27
+2584007,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-12,2023-09-01,2023-02-11
+2946380,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-02-04,2023-11-03,2023-09-03
+2660234,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-03-29,2023-05-26,2023-07-16
+2938892,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-03-06,2023-08-07,2023-05-11
+2368505,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-10-24,2023-03-14,2023-12-24
+2346336,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-01-27,2023-09-01,2023-07-21
+2226727,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-03-12,2023-08-27,2023-11-05
+2817662,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-08-12,2023-10-12,2023-11-27
+2007864,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-07-20,2023-09-13,2023-08-09
+2968818,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-11-09,2023-12-29,2023-11-25
+2074774,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-04-23,2023-03-26,2023-07-20
+2342611,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-06-08,2023-07-19,2023-03-15
+2854355,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-08-06,2023-05-28,2023-10-22
+2988167,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-28,2023-02-22,2023-03-01
+2181251,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-06-29,2023-01-15,2023-01-02
+2969393,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-10-31,2023-04-01,2023-09-08
+2325794,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-09-30,2023-05-25,2023-12-23
+2953720,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2024-01-07,2023-03-22,2023-12-24
+2545562,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-03-26,2023-10-21,2023-10-31
+2419808,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-05-29,2023-03-23,2023-05-21
+2265504,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-11-10,2023-01-26,2023-12-25
+2510267,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-27,2023-10-27,2023-10-19
+2805789,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2024-01-03,2023-08-20,2023-12-03
+2183318,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-03-18,2023-10-14,2023-09-27
+2659593,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-05-25,2023-03-27,2023-04-02
+2569940,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-05-16,2023-12-24,2023-12-15
+2757682,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-02-26,2023-05-31,2023-10-25
+2357270,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-02-13,2023-04-21,2023-09-18
+2278577,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-01-15,2023-05-09,2023-06-25
+2833657,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-09-22,2023-07-18,2023-12-13
+2590109,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-07-24,2023-12-09,2023-07-20
+2323788,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-04-22,2023-12-24,2023-07-07
+2120571,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-11-05,2023-01-15,2023-06-06
+2187653,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-07-10,2023-02-25,2023-06-13
+2770062,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-02-03,2023-07-30,2023-11-25
+2056325,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-03-09,2023-06-12,2023-10-11
+2084343,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-06-04,2023-04-22,2023-09-10
+2195143,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-03-08,2023-01-21,2023-11-15
+2086651,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-11-20,2023-08-29,2023-01-27
+2751506,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-05-18,2023-03-29,2023-10-27
+2543698,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-09-06,2023-09-07,2023-09-12
+2053052,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-05-12,2023-03-31,2023-08-07
+2257464,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-10-24,2023-08-11,2023-09-27
+2281682,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-30,2023-06-17,2023-07-24
+2920518,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-05-10,2023-09-19,2023-09-04
+2441788,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-07-26,2023-07-10,2023-01-29
+2025913,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-11-15,2023-08-22,2023-03-04
+2403391,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-03-05,2023-01-03,2023-05-27
+2078509,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-06-05,2023-07-24,2023-04-14
+2819509,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-02-25,2023-03-02,2023-03-07
+2554452,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-10-01,2023-04-10,2023-10-11
+2869137,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-01-14,2023-02-06,2023-09-28
+2858125,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-12-26,2023-07-22,2023-10-06
+2878712,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-15,2023-11-03,2023-06-23
+2767399,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-08-24,2023-06-13,2023-04-07
+2289572,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-09-09,2023-12-21,2023-06-06
+2050128,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-10-23,2023-06-13,2023-02-18
+2991574,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-09-19,2023-06-22,2023-12-28
+2290670,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-07-31,2024-01-04,2023-03-26
+2590166,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-08-12,2023-04-03,2023-02-11
+2570783,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-01-27,2023-12-21,2023-02-26
+2892922,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-06-24,2023-11-02,2023-11-17
+2471806,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-02-10,2023-06-04,2023-05-14
+2070747,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-07-09,2023-09-09,2023-12-25
+2555591,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-07-25,2023-08-29,2023-09-10
+2415125,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-09-22,2023-08-26,2023-02-11
+2532820,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-01-27,2023-12-30,2023-05-04
+2480800,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-09-04,2023-05-28,2023-12-13
+2759168,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-06-24,2023-05-18,2023-07-05
+2239176,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-11-23,2023-02-22,2023-09-11
+2660199,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-05-04,2023-03-12,2023-08-18
+2524996,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-10-27,2023-07-15,2023-03-16
+2859532,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-11-29,2023-09-02,2023-07-20
+2632379,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-26,2023-07-17,2023-05-14
+2156157,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-04-15,2023-12-08,2023-12-22
+2302545,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-10-24,2023-10-23,2023-02-07
+2547432,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-06-22,2023-03-17,2023-11-15
+2248565,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-11-05,2023-04-08,2023-10-25
+2144882,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-05-01,2023-08-20,2023-02-19
+2541506,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-06-18,2023-11-28,2023-08-26
+2899866,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-11-29,2023-07-23,2023-09-19
+2014092,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-02-27,2023-07-07,2023-06-05
+2292168,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-03-24,2023-12-24,2023-09-09
+2892949,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-02-28,2023-07-11,2023-03-20
+2364942,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-10-23,2023-09-22,2023-12-25
+2076560,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-01-30,2023-10-11,2023-09-29
+2563912,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-04-17,2023-11-16,2023-04-16
+2360484,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-04-24,2023-09-12,2023-11-11
+2074426,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-02-28,2023-09-09,2023-01-11
+2469015,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-09-19,2023-07-05,2023-07-20
+2772302,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-12-17,2023-11-11,2023-12-20
+2672328,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-04-14,2023-09-12,2023-07-20
+2646535,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-04-05,2023-09-28,2023-04-20
+2313190,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-12-19,2023-01-12,2023-05-15
+2835027,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-11-03,2023-07-11,2023-02-27
+2140928,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-03-17,2023-09-14,2023-01-15
+2477776,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-07-19,2023-11-04,2023-04-22
+2915072,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-04-09,2024-01-01,2023-11-05
+2459639,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-12-09,2023-06-30,2023-12-25
+2729011,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-11-24,2023-04-21,2023-10-10
+2517958,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-03-11,2023-09-10,2023-07-30
+2666047,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-01-02,2023-03-19,2023-02-17
+2563770,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-07-04,2023-07-16,2023-11-24
+2703852,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-08-12,2023-08-19,2023-07-14
+2381812,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-05-27,2023-11-27,2023-02-26
+2845950,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-02-09,2023-06-30,2023-11-24
+2609249,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-10-07,2023-08-20,2023-04-22
+2765847,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-08-22,2023-01-11,2023-10-24
+2281701,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-12-07,2023-10-16,2023-06-28
+2288887,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-06-02,2023-07-04,2023-10-03
+2218794,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-09-19,2023-08-17,2023-11-20
+2813979,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-04-20,2023-10-18,2023-09-20
+2235725,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-07-10,2023-06-26,2023-08-22
+2312716,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-12-12,2023-10-07,2023-12-18
+2140689,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-11-11,2023-12-13,2023-11-24
+2838486,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-08-06,2023-11-28,2023-05-25
+2097342,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-10-25,2023-12-03,2023-06-04
+2197437,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-06-16,2023-04-11,2023-08-22
+2266007,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-09-29,2023-04-16,2023-09-06
+2840907,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-11-24,2023-12-06,2023-03-08
+2469126,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-07-24,2023-03-19,2023-12-12
+2993028,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-04-19,2023-11-13,2023-08-15
+2901376,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-04-27,2023-01-03,2023-09-01
+2106745,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-08-29,2023-11-22,2023-06-21
+2189096,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-01-08,2023-08-03,2023-02-01
+2118535,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-05-09,2023-08-22,2023-09-28
+2330910,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-04-11,2023-01-18,2023-11-25
+2486918,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-07-30,2023-05-10,2023-09-21
+2076743,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-09-23,2023-03-19,2023-02-26
+2176410,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-05-14,2023-09-28,2023-12-01
+2228504,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-03,2023-03-16,2023-05-22
+2486421,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-02-03,2023-01-02,2023-10-12
+2241724,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-06-26,2023-08-03,2023-11-10
+2003509,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-02-28,2023-09-07,2023-06-30
+2788193,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-07-29,2023-12-05,2023-01-05
+2980390,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-10-29,2023-03-28,2023-12-16
+2759582,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-09-29,2024-01-05,2023-12-21
+2649219,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-01-10,2023-10-06,2023-08-27
+2015913,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-02-10,2023-10-03,2023-04-17
+2717864,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-09-13,2023-03-05,2023-07-11
+2720944,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-02-28,2023-09-10,2023-07-31
+2658776,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-12-21,2023-11-04,2023-09-23
+2125965,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-03-08,2023-11-13,2023-04-11
+2851554,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-08-30,2023-08-03,2023-07-26
+2028630,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-01-29,2023-11-04,2023-03-20
+2624447,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-04-24,2023-07-08,2023-09-11
+2969979,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-03-09,2023-02-12,2023-01-14
+2133075,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-08-11,2023-05-29,2023-10-05
+2849105,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-12-15,2023-07-09,2023-05-22
+2433969,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-10-30,2023-03-02,2023-06-13
+2706988,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-08-19,2023-01-12,2023-01-25
+2651748,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-08-20,2023-09-14,2023-11-20
+2169257,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-09-03,2023-06-16,2023-01-13
+2744253,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-08-13,2023-10-19,2023-11-07
+2701684,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-06,2023-01-17,2023-10-09
+2915564,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-01-14,2023-01-09,2023-07-03
+2193037,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-06-14,2023-03-13,2023-05-02
+2524652,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-05-31,2023-11-11,2023-05-30
+2618793,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-02-23,2023-08-20,2023-05-04
+2393520,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-07-29,2023-02-22,2023-10-18
+2080893,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-12-29,2023-01-29,2023-06-19
+2396198,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-09,2023-12-14,2023-03-28
+2345743,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-09-19,2023-10-27,2023-03-21
+2014202,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-04-14,2023-06-22,2023-07-18
+2741677,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-10-29,2023-01-21,2023-09-30
+2922000,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-06-02,2023-10-09,2023-03-28
+2618327,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-02-02,2023-02-28,2023-05-16
+2213979,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-08-25,2023-07-11,2023-12-13
+2653833,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-01-30,2023-05-26,2023-12-24
+2211990,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-07-14,2023-08-06,2023-11-01
+2947231,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-02-06,2023-10-21,2023-10-24
+2353248,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-03-14,2023-06-09,2023-04-03
+2986820,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-04-18,2023-12-26,2023-11-24
+2968289,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-06-24,2023-12-25,2023-04-01
+2528776,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-08-09,2023-01-01,2023-03-22
+2263576,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-03-31,2023-06-01,2023-01-01
+2230361,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-04-06,2023-04-05,2023-06-03
+2607196,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-06-17,2023-05-19,2023-09-05
+2466904,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2024-01-05,2023-02-08,2023-02-06
+2428138,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-10-05,2023-08-27,2023-04-07
+2143622,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-02-09,2023-01-14,2023-11-07
+2550335,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-01-31,2023-08-26,2023-02-23
+2554289,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-11-23,2023-07-25,2023-07-21
+2381623,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-05-04,2023-02-14,2023-09-18
+2717571,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-14,2023-04-04,2023-06-25
+2234057,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-03-09,2023-09-18,2023-06-01
+2435227,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-20,2023-12-09,2023-05-20
+2383936,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-03-23,2023-11-16,2023-08-13
+2963145,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-12-25,2023-01-19,2023-05-20
+2815584,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-11-19,2023-06-14,2023-01-10
+2358647,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-09-05,2023-02-13,2023-11-05
+2700066,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-05-29,2023-12-08,2023-02-03
+2790976,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-12-07,2023-01-23,2023-01-11
+2630095,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-11-24,2023-06-08,2023-08-16
+2808195,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-12-27,2023-04-12,2023-11-01
+2084350,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-02-19,2023-12-05,2023-10-07
+2041069,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-28,2023-09-28,2023-09-16
+2700338,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-12-08,2023-09-15,2023-04-20
+2199395,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-09-05,2023-03-03,2023-04-13
+2352213,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-08-07,2023-07-28,2023-07-02
+2583569,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-07,2023-02-05,2023-03-20
+2789587,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-03-21,2023-09-29,2023-10-29
+2740401,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-09-16,2023-10-18,2023-09-20
+2467188,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-01-22,2023-09-28,2023-04-22
+2903544,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-08-01,2023-11-04,2023-12-11
+2447846,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-10-23,2023-04-22,2023-06-30
+2221456,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-10-22,2023-05-07,2023-07-15
+2603177,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-08-18,2023-04-24,2023-05-15
+2229264,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-11-10,2023-06-11,2023-09-08
+2027067,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-10-17,2023-01-01,2023-11-14
+2587270,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-11-21,2023-07-11,2023-06-20
+2756026,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-03-11,2023-10-15,2023-07-14
+2210662,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-05-03,2023-03-11,2023-01-02
+2223772,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-09-21,2023-07-31,2023-12-03
+2323333,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-12-26,2023-03-04,2023-06-19
+2056197,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-09-08,2023-09-11,2023-02-21
+2034097,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-04-24,2023-01-25,2023-07-20
+2225257,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-06-12,2023-05-04,2023-09-12
+2700353,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-11-26,2023-11-19,2023-10-22
+2573193,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-11-29,2023-01-08,2023-10-12
+2299971,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-02-20,2023-07-20,2023-08-11
+2707578,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-04-18,2023-10-11,2023-08-12
+2414925,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-08-07,2023-02-09,2023-02-06
+2407245,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-07-11,2023-08-05,2023-05-19
+2851053,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-05-22,2023-08-08,2023-04-13
+2517324,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-08-14,2023-09-01,2023-09-21
+2410912,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-12-11,2023-08-23,2023-03-20
+2799462,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-12-29,2023-10-17,2024-01-05
+2756962,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-03-30,2024-01-01,2023-09-04
+2071848,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-12-12,2023-04-07,2023-08-28
+2641677,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-01-10,2023-05-06,2023-11-05
+2918593,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-02-23,2023-01-17,2023-09-06
+2016803,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-11-22,2023-10-22,2023-03-07
+2977146,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-10-09,2023-08-05,2023-04-23
+2753573,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-12-14,2023-06-02,2023-12-09
+2725910,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2024-01-04,2023-05-02,2023-05-07
+2647891,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-01-09,2023-04-23,2023-02-20
+2499003,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-05-25,2023-07-29,2023-09-22
+2545413,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-09-15,2023-03-17,2023-06-06
+2787461,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-11-08,2023-03-10,2023-10-18
+2688798,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-01-10,2023-09-24,2023-10-16
+2670496,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-10-01,2023-10-25,2023-09-23
+2465481,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-12-06,2023-11-28,2023-06-21
+2137415,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-08-29,2023-05-10,2023-11-13
+2682063,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-10-12,2023-01-22,2023-03-03
+2830472,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-05-08,2023-02-08,2023-02-14
+2238301,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-01-17,2023-12-23,2023-04-15
+2128796,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-11-30,2023-09-09,2023-06-24
+2906293,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-07-28,2023-08-16,2023-09-12
+2782021,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-07-28,2023-03-09,2023-10-25
+2997958,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-01-10,2023-10-30,2023-01-31
+2736364,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-07-13,2023-08-24,2023-03-04
+2165804,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-08-17,2023-08-28,2023-05-04
+2913006,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-01-02,2023-06-29,2023-12-20
+2209781,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-03-05,2023-03-25,2023-11-17
+2262983,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-01-08,2023-01-24,2023-03-06
+2962440,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-06-21,2023-07-23,2023-02-16
+2796010,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-11-20,2023-02-23,2023-10-31
+2973336,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-11-23,2023-03-28,2023-10-28
+2789449,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-08-25,2023-08-01,2023-07-26
+2676719,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-08-20,2023-06-26,2023-04-12
+2131658,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-05-12,2023-11-24,2023-09-10
+2039289,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-05-09,2023-12-05,2023-11-02
+2872412,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-08-15,2023-07-30,2023-08-23
+2066178,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-08-05,2023-01-14,2023-08-14
+2092708,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-02-10,2023-03-10,2023-07-17
+2441625,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-08-11,2023-06-03,2023-09-18
+2130718,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-10-08,2023-02-08,2023-07-23
+2500695,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-04-11,2023-02-14,2023-06-20
+2006780,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-02-08,2023-07-04,2023-07-11
+2518693,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-03-28,2023-07-15,2023-09-14
+2590969,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-08-21,2023-09-02,2023-06-05
+2242641,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-02-02,2023-12-06,2023-07-18
+2137599,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-12-20,2023-09-15,2023-01-28
+2378181,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-02-24,2023-07-04,2023-05-15
+2368253,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-08-23,2023-07-01,2023-01-25
+2707633,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-07-24,2023-11-11,2023-02-10
+2806282,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-12-04,2023-05-23,2023-11-09
+2460172,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-09-04,2023-01-29,2023-01-15
+2332508,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-12-01,2023-10-17,2023-04-20
+2843220,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-10-07,2023-12-19,2023-11-30
+2250327,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-05-28,2023-09-23,2023-06-24
+2449368,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-07-09,2023-04-18,2023-07-23
+2992346,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-08-21,2023-04-26,2023-06-09
+2362522,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2024-01-05,2023-04-16,2023-03-13
+2927841,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-01-30,2023-02-26,2023-02-02
+2148715,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-12-19,2023-06-28,2024-01-07
+2042401,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-09-13,2023-09-11,2023-04-19
+2451483,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-02-01,2023-06-07,2023-05-14
+2910302,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-12-04,2023-02-12,2023-07-21
+2601071,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-06-11,2023-10-17,2023-09-14
+2792581,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-05-09,2023-05-09,2023-08-17
+2886662,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-12-24,2023-10-22,2023-10-22
+2777908,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-09-22,2023-01-24,2023-06-30
+2954784,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-07-29,2023-09-06,2023-12-01
+2611203,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-03-16,2023-10-27,2023-02-22
+2601005,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-01-05,2023-09-29,2023-04-13
+2673149,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-12-28,2023-07-02,2023-04-14
+2500060,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-08,2023-04-03,2023-03-30
+2743328,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-10-24,2023-05-28,2023-08-01
+2870637,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-12-31,2023-03-23,2023-10-10
+2786667,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-25,2023-07-08,2023-12-22
+2816631,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-01-10,2023-10-20,2023-09-06
+2679426,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-11-23,2023-02-28,2024-01-03
+2709094,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2024-01-07,2023-06-23,2023-06-06
+2556915,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-10-04,2023-07-03,2023-08-10
+2580089,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-03-11,2023-06-12,2023-12-21
+2167208,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-03-27,2023-12-26,2023-11-12
+2864058,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-01,2023-06-18,2023-01-25
+2410670,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-07-11,2023-05-14,2023-07-02
+2189013,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-05-23,2023-04-23,2023-06-26
+2881185,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-12-16,2023-08-29,2023-05-21
+2666223,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-05-02,2023-11-19,2023-09-27
+2419320,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-09-19,2023-02-16,2023-09-16
+2946354,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-11-08,2023-06-13,2023-06-07
+2314537,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-06-05,2023-02-09,2023-02-10
+2369411,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-08-22,2023-08-27,2023-03-15
+2647552,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-04-20,2023-03-22,2023-04-20
+2384606,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-10-28,2023-08-21,2023-06-20
+2052944,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-04-30,2023-02-25,2023-06-28
+2443900,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-24,2023-11-08,2023-08-22
+2522804,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-18,2023-06-21,2023-01-04
+2770619,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-14,2023-03-07,2023-08-12
+2229660,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-03-30,2023-10-23,2023-04-27
+2658933,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-01-26,2023-02-06,2023-01-15
+2533225,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-01-26,2023-01-04,2023-09-26
+2955685,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-01-09,2023-10-17,2023-05-27
+2756167,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-01-24,2023-12-28,2023-11-21
+2285004,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-06-09,2023-01-12,2023-07-01
+2692905,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-06-06,2023-05-12,2023-10-23
+2127954,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-06-16,2023-05-06,2023-08-05
+2345705,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-05-17,2023-06-27,2023-01-03
+2608389,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-12-07,2023-11-29,2023-03-15
+2425249,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-07-22,2023-06-19,2023-05-22
+2226897,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-04-04,2023-01-28,2023-06-28
+2906466,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-02-18,2023-06-24,2023-12-09
+2128320,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-06-12,2023-10-24,2023-01-24
+2861184,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-07-14,2023-01-01,2023-11-05
+2337665,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-10-23,2023-09-09,2023-01-22
+2020342,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-01-24,2023-03-17,2023-08-07
+2181510,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-05-28,2023-12-18,2023-10-27
+2952300,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-04-05,2023-07-31,2023-03-27
+2479870,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-10-20,2023-06-24,2023-09-12
+2327117,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-01-17,2023-08-21,2023-09-25
+2359192,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-05-24,2023-05-06,2023-11-12
+2508952,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-28,2023-11-27,2023-04-17
+2787728,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-09-28,2023-07-14,2023-01-25
+2291425,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-04-09,2023-01-29,2023-05-30
+2484384,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-11-26,2023-02-02,2023-12-15
+2691377,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-04-17,2023-07-20,2023-07-01
+2181006,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-04-27,2023-09-07,2023-07-16
+2944695,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-08-01,2023-03-01,2023-12-29
+2192761,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-12-19,2023-11-24,2024-01-03
+2190986,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-11-30,2023-06-02,2023-12-16
+2903865,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-06,2023-12-19,2023-07-14
+2537465,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-03-29,2023-02-05,2023-01-29
+2540061,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-06-04,2023-06-17,2023-09-22
+2280916,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-12-23,2023-07-15,2023-01-13
+2171478,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-01-05,2023-12-11,2023-05-30
+2990610,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-04-27,2023-02-12,2023-06-27
+2969849,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-10-03,2023-01-25,2023-09-06
+2177500,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-09-17,2023-03-12,2023-05-13
+2953545,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-06-05,2023-03-04,2023-05-04
+2832074,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-04-09,2023-08-29,2023-12-10
+2689884,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-02-14,2023-09-16,2023-02-05
+2210948,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-05-22,2023-10-30,2023-08-05
+2900613,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2024-01-03,2023-02-16,2023-05-04
+2294704,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-05-27,2023-01-25,2023-12-11
+2973523,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-12-05,2023-03-31,2023-03-01
+2893225,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2024-01-07,2023-04-26,2023-05-30
+2992315,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-02-09,2023-02-02,2023-12-08
+2692378,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-05-11,2023-07-11,2023-09-25
+2761615,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-03-21,2023-09-14,2023-02-02
+2122491,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-01-29,2023-03-19,2023-10-10
+2949555,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-02-02,2023-07-27,2023-07-21
+2715769,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-11-01,2023-10-16,2023-08-08
+2714440,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-12-08,2023-03-03,2023-03-19
+2937220,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-07-21,2023-03-03,2023-07-12
+2596251,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-01-19,2023-09-29,2023-07-01
+2889047,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-02-08,2023-08-20,2023-09-05
+2829567,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-03-21,2023-11-07,2024-01-04
+2879831,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-03-05,2023-02-18,2023-03-20
+2801371,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-02-11,2023-01-27,2023-11-19
+2824103,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-02-28,2023-11-24,2024-01-07
+2604094,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-04-05,2023-06-24,2023-03-15
+2376465,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-30,2023-03-20,2023-09-04
+2992263,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-06-12,2023-03-10,2023-05-02
+2745615,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-01-21,2023-12-11,2023-06-14
+2973958,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-09-13,2023-11-09,2023-10-19
+2149995,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-08-31,2023-03-30,2023-03-21
+2642916,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-07-12,2023-12-18,2023-11-02
+2190463,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-03-28,2023-08-23,2023-04-08
+2064048,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-06-03,2023-07-02,2023-11-29
+2187730,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-02-02,2023-08-12,2023-11-20
+2447428,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-12,2023-04-15,2023-01-22
+2424215,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-10-31,2023-09-11,2023-11-22
+2559869,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-01-16,2023-05-29,2023-09-01
+2034293,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-08-11,2023-06-20,2023-01-22
+2511836,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-03-19,2023-06-10,2023-08-22
+2359722,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-12-29,2023-12-29,2023-08-11
+2549970,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-01-27,2023-06-26,2023-12-10
+2949799,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-03-12,2023-06-15,2023-02-06
+2172522,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-06-08,2023-12-26,2023-08-15
+2763994,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-11-20,2023-09-11,2023-01-21
+2544052,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-08-09,2023-10-31,2023-01-22
+2290694,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-04-05,2023-12-05,2023-07-22
+2619759,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-07-14,2023-06-21,2023-12-19
+2969789,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-04-02,2023-06-26,2023-04-03
+2147640,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-14,2023-12-16,2023-09-22
+2584243,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-07-14,2023-02-19,2023-12-30
+2459362,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-08-12,2023-07-24,2023-01-12
+2036109,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-05-17,2023-09-03,2023-09-23
+2722545,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-07-18,2023-01-27,2023-07-29
+2499610,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-03-21,2023-05-07,2023-09-09
+2080078,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-08-12,2023-09-09,2023-11-11
+2161839,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-21,2023-07-19,2023-01-11
+2847896,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-10-26,2023-03-08,2023-04-12
+2007453,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-04-14,2023-05-24,2023-09-24
+2538232,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-04-10,2023-01-06,2023-04-19
+2707628,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-09-10,2023-09-24,2023-12-30
+2760065,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-07-30,2023-03-11,2023-06-08
+2974657,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-08-26,2023-02-13,2023-06-22
+2613557,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-06-13,2023-08-22,2024-01-06
+2255296,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-01,2023-04-04,2023-06-20
+2846311,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-12-22,2023-02-26,2023-02-12
+2161278,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-12-10,2023-08-15,2023-04-24
+2560837,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-05-13,2024-01-02,2023-07-25
+2150200,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-04-28,2023-04-17,2023-08-08
+2446182,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-09-24,2023-01-04,2023-12-30
+2732152,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-07-25,2023-08-12,2023-09-01
+2253276,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-02,2023-05-03,2023-06-30
+2541404,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-01-07,2024-01-03,2023-01-10
+2643265,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-10-17,2023-07-24,2023-07-26
+2258018,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-10-21,2023-08-30,2023-02-18
+2797561,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-06-18,2023-08-28,2023-09-28
+2171471,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-05-07,2023-11-05,2023-08-13
+2439126,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-06-21,2023-09-18,2023-04-07
+2345048,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-10-13,2023-07-03,2023-12-19
+2590583,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-11-26,2023-06-11,2023-12-13
+2066087,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-09-05,2023-02-26,2023-04-17
+2739891,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-02-03,2023-09-23,2023-07-28
+2399636,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-01-21,2023-03-09,2023-03-28
+2955159,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-09-14,2023-07-08,2023-02-13
+2098523,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-04-25,2023-11-26,2023-11-27
+2432006,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-06-08,2023-12-13,2023-05-01
+2086246,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-10-04,2023-03-12,2023-02-07
+2608285,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-09-29,2023-12-23,2023-05-06
+2870692,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-05-14,2023-09-05,2023-08-04
+2542263,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-03-23,2023-12-11,2023-06-06
+2370893,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-06-11,2023-04-19,2023-03-28
+2575828,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-04-26,2023-02-19,2023-04-10
+2481352,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-06-23,2023-01-08,2023-04-20
+2748327,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-03-09,2023-06-18,2023-02-21
+2414165,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-01-27,2023-05-23,2023-03-09
+2179360,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-09-22,2023-11-01,2023-09-24
+2319040,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2024-01-01,2023-08-21,2023-05-21
+2144889,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-12-25,2023-07-03,2023-08-07
+2695667,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-12-07,2023-01-28,2023-04-09
+2917119,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-09-18,2023-09-16,2023-02-09
+2190912,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-02-16,2023-01-15,2023-06-18
+2570838,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-05-05,2023-09-25,2023-02-09
+2211035,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-12-10,2023-08-11,2023-06-29
+2367698,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-11-02,2023-08-16,2023-04-14
+2053759,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-10-14,2023-11-02,2023-08-27
+2213736,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-01-01,2023-07-18,2023-01-01
+2848456,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-02-12,2023-01-28,2023-11-15
+2243744,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-09-27,2023-09-19,2023-05-25
+2871413,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-10-04,2023-05-19,2023-12-19
+2000499,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-05-17,2023-04-05,2023-03-07
+2038097,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-06-26,2023-04-04,2023-11-04
+2299813,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-02-12,2023-06-23,2023-10-06
+2223953,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-02-01,2023-06-30,2023-08-25
+2434582,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-03-09,2023-10-15,2023-12-23
+2261890,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-04-23,2023-09-22,2023-11-09
+2629096,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-08-15,2023-08-29,2023-09-29
+2977851,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-06-07,2023-12-20,2023-01-22
+2404530,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-05-13,2023-01-13,2023-06-20
+2687227,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-05-27,2023-12-23,2023-07-29
+2823878,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-11-25,2023-07-29,2023-02-13
+2061470,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-05-18,2023-04-20,2023-02-18
+2801574,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-02-15,2023-02-22,2023-07-21
+2163843,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-10-10,2023-12-12,2023-11-20
+2153846,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-05-07,2023-03-03,2023-08-13
+2263206,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-08-03,2023-11-19,2023-01-17
+2944631,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-01-09,2023-12-31,2023-09-22
+2710330,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-01-09,2023-02-27,2023-11-28
+2822558,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-01-28,2023-08-23,2023-02-01
+2716607,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-01-27,2023-03-09,2023-05-25
+2344739,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-05-15,2023-09-16,2023-08-04
+2299479,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-02-03,2023-06-23,2023-04-14
+2388419,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-04-26,2023-08-30,2023-03-13
+2779280,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-04-16,2023-05-12,2023-10-26
+2516080,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-07-12,2023-11-03,2023-07-30
+2296128,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-11-16,2023-06-16,2023-03-10
+2372555,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2024-01-06,2023-08-28,2023-07-04
+2512054,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-12-14,2023-03-23,2023-02-28
+2967614,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-17,2024-01-07,2023-09-17
+2609433,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-12-23,2023-08-26,2023-10-31
+2110957,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-07-30,2023-10-15,2023-07-25
+2798916,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-08-23,2023-12-19,2023-03-21
+2078046,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-06-26,2023-09-23,2023-04-13
+2497431,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-11-22,2023-02-22,2023-10-05
+2094634,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-01-24,2023-05-23,2023-11-22
+2993968,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-03-17,2023-12-12,2023-10-31
+2229770,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-09-24,2023-07-20,2023-12-07
+2089982,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-07-08,2023-01-17,2023-01-21
+2347724,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-07-01,2023-07-15,2023-03-25
+2512020,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-03-28,2023-11-13,2023-02-27
+2356463,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-01-02,2023-11-07,2023-02-02
+2302374,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-11-03,2023-09-22,2023-08-03
+2704981,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-04-15,2023-11-17,2023-07-22
+2590173,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-03-22,2023-11-01,2023-08-10
+2918984,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-06-24,2023-09-12,2023-01-24
+2500495,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-11-11,2023-02-28,2023-03-22
+2956910,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-08-06,2023-01-31,2023-08-17
+2815762,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-10-05,2023-10-12,2023-05-26
+2516490,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-18,2023-08-08,2023-02-23
+2490304,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-08-04,2023-01-03,2023-08-11
+2050727,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-03-11,2023-06-18,2023-10-04
+2181403,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-05-20,2023-11-04,2023-05-03
+2159106,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-07-11,2023-07-05,2023-05-28
+2499331,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-13,2023-01-24,2023-03-27
+2737589,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-06-27,2023-04-16,2023-05-17
+2342713,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-04-08,2023-08-03,2023-02-26
+2616707,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-02-04,2023-06-20,2023-09-04
+2865924,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-01,2023-06-29,2023-08-13
+2348965,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-11-11,2023-02-28,2023-06-25
+2320916,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-09-12,2024-01-07,2023-05-01
+2908596,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-09-19,2023-10-05,2023-03-29
+2906229,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-01-13,2023-04-09,2023-01-23
+2732651,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-04-02,2023-09-29,2023-01-31
+2637887,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-10-22,2023-07-13,2023-07-09
+2665040,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-04-09,2023-06-26,2023-10-09
+2764586,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-09-03,2023-04-14,2023-12-12
+2251973,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-09-17,2023-05-27,2023-08-05
+2958192,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-12-09,2023-11-08,2023-11-16
+2497824,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-10-15,2023-02-27,2023-04-23
+2838023,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-05-17,2023-08-25,2023-10-11
+2201377,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-01-10,2023-05-22,2023-10-25
+2967923,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-03-30,2023-09-16,2023-05-27
+2389331,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-04-04,2023-03-05,2023-04-18
+2570574,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-01,2023-02-05,2023-10-04
+2215421,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-08-09,2023-04-07,2023-11-28
+2111801,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-05-03,2023-10-24,2023-03-11
+2725306,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-04-08,2023-07-23,2023-03-22
+2371942,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-07-24,2023-05-26,2023-03-11
+2423918,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-10-15,2023-12-17,2023-05-05
+2875958,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-11-08,2023-04-10,2023-12-11
+2607103,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-02-04,2023-10-22,2023-05-29
+2858694,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-12-23,2023-06-16,2023-11-10
+2673118,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-04-20,2023-09-08,2023-11-16
+2659760,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-04-11,2023-06-25,2023-04-05
+2599096,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-10-14,2023-06-29,2023-12-29
+2059051,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-03-31,2023-05-10,2023-09-29
+2160402,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-10-17,2023-07-17,2023-11-07
+2470521,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-07-19,2023-07-21,2023-03-27
+2265181,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-09-24,2023-07-16,2023-06-11
+2277828,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-01-04,2023-02-17,2023-12-30
+2304862,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-08-02,2023-04-11,2023-03-11
+2627854,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-08-08,2023-07-08,2023-05-26
+2138830,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-05-11,2023-09-06,2023-08-31
+2073422,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-05-10,2023-05-24,2023-05-18
+2201780,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-05-10,2023-05-06,2023-04-24
+2876949,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-12-21,2023-09-30,2023-09-09
+2197927,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-08-03,2023-08-01,2023-10-11
+2531218,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-08-17,2023-08-12,2023-07-16
+2464034,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-11-10,2023-08-03,2023-01-25
+2099184,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-11-20,2023-05-10,2023-05-14
+2837357,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Making/Accepting calls",,,2023-02-27,2023-08-09,2023-07-24
+2893622,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-12-25,2023-09-05,2023-08-12
+2714924,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-08-06,2023-08-04,2023-09-20
+2978150,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-12-14,2023-12-27,2023-04-25
+2796557,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-04-24,2023-06-19,2023-01-16
+2133415,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-08-17,2023-09-05,2023-07-03
+2074752,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-09-02,2023-09-16,2023-04-26
+2254569,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-03-23,2023-03-02,2023-10-20
+2698767,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-07-31,2023-08-23,2023-01-20
+2970433,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-10-21,2023-04-15,2023-04-08
+2926375,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-03-24,2023-11-01,2023-12-26
+2547199,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-08-15,2023-04-02,2023-10-11
+2695423,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-02-05,2023-06-24,2023-09-11
+2935013,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2024-01-07,2023-02-21,2023-04-24
+2988930,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-03-08,2023-01-09,2023-12-07
+2760401,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-10-02,2023-05-30,2023-03-21
+2104000,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-08-19,2023-11-20,2023-01-07
+2052771,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-05-30,2023-05-24,2023-09-15
+2542656,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-08-20,2023-09-09,2023-04-30
+2673699,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-11-28,2023-11-03,2023-04-06
+2736159,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-09-21,2023-01-28,2023-09-07
+2995910,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-10-07,2023-05-28,2023-11-14
+2836837,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-01-16,2023-06-02,2023-07-29
+2344124,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-08-19,2023-10-27,2023-05-30
+2221691,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2024-01-05,2023-08-19,2023-03-15
+2965632,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-01-26,2023-01-14,2023-04-17
+2678669,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-04-06,2023-03-13,2023-12-05
+2188322,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-13,2023-09-15,2023-02-06
+2324465,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-01-14,2023-02-04,2023-11-25
+2359089,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-06-06,2023-03-11,2023-04-12
+2871603,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-10-14,2023-06-19,2023-02-09
+2268246,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-06-10,2023-10-31,2023-08-20
+2754720,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-11-15,2023-03-30,2023-12-11
+2703898,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-08-17,2023-10-31,2023-03-05
+2571342,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-12-13,2024-01-05,2023-10-18
+2642438,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-12-08,2023-06-25,2023-06-03
+2315985,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-02-01,2023-03-04,2023-07-16
+2891353,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-03-15,2023-04-01,2023-08-25
+2229409,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-07-03,2023-05-31,2023-01-01
+2691182,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-06-30,2023-08-14,2023-01-04
+2090826,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-09-03,2024-01-01,2023-06-24
+2372175,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-04-22,2023-08-03,2023-06-07
+2328816,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-05-15,2023-05-25,2023-12-31
+2680506,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-08-23,2023-11-22,2024-01-04
+2151052,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-05-22,2023-09-19,2023-01-02
+2268215,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-12-08,2023-11-28,2023-02-15
+2792255,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-08-23,2023-02-28,2023-11-25
+2570371,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-10-29,2023-01-21,2023-06-18
+2340314,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-03-01,2023-06-02,2023-08-28
+2811663,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-08-24,2023-10-01,2023-01-09
+2836257,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-04-17,2023-07-01,2023-02-14
+2197683,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-11-14,2023-08-06,2023-02-03
+2301557,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-11-30,2023-07-12,2023-06-21
+2787704,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-04-16,2023-11-27,2023-12-12
+2372942,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-12-11,2024-01-07,2023-12-25
+2064703,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-02-26,2023-08-27,2023-05-11
+2848788,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-07-10,2023-02-15,2023-05-27
+2887295,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-08-11,2023-03-21,2023-04-09
+2014199,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-04-23,2023-04-19,2023-05-08
+2156710,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-03-03,2023-12-27,2023-02-03
+2992876,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2024-01-07,2023-02-13,2023-01-05
+2163260,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-02-16,2023-09-18,2023-01-24
+2385186,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Time Stamp issues",,,2023-02-21,2023-12-04,2023-04-08
+2987353,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-06-06,2023-01-13,2023-11-05
+2112049,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-09-08,2023-10-06,2023-02-12
+2551960,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-11-17,2023-10-26,2023-11-21
+2978615,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-11-20,2023-04-09,2023-11-26
+2739040,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-01-15,2023-05-02,2023-01-16
+2189333,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-12-27,2023-06-26,2023-07-19
+2777754,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-11-22,2023-07-03,2023-09-28
+2381326,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-07-11,2023-10-03,2023-12-21
+2364014,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-05-19,2023-01-08,2023-05-22
+2987818,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-04-07,2023-01-10,2023-06-09
+2295961,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-08-07,2023-06-10,2023-08-02
+2643169,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-07-13,2023-05-28,2023-03-24
+2718695,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-03-08,2023-08-19,2023-08-05
+2217400,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-04-04,2023-12-20,2023-08-08
+2601371,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-07-18,2023-04-12,2023-01-20
+2256532,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-05-20,2023-11-10,2023-04-16
+2653803,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-23,2023-01-30,2023-08-09
+2153152,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-04-22,2023-04-25,2023-04-16
+2667347,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-01-26,2023-01-16,2023-08-11
+2154185,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-04-30,2023-08-15,2023-11-01
+2188162,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-02-17,2023-12-08,2023-06-19
+2709066,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-08-08,2023-05-20,2023-05-30
+2314110,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-12-07,2023-09-21,2023-11-21
+2997950,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-03-10,2024-01-04,2023-09-05
+2726475,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-01-18,2023-10-16,2023-02-07
+2099265,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-07-11,2023-03-17,2023-11-12
+2017345,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-06-20,2023-01-09,2023-08-13
+2786317,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-04-29,2023-06-29,2023-08-18
+2617168,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-10-13,2023-10-26,2023-10-12
+2764616,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-04-23,2023-12-07,2023-07-03
+2183997,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-09-22,2023-05-27,2023-07-06
+2720487,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-02-18,2023-06-12,2023-07-15
+2783621,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-12-02,2023-11-30,2023-07-21
+2036081,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-10-25,2023-02-01,2023-02-25
+2404570,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-10-16,2023-03-01,2023-02-21
+2339938,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-05-10,2023-04-17,2023-06-11
+2091987,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-09-20,2023-01-05,2023-02-01
+2443179,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-07-11,2023-01-14,2023-05-08
+2932009,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-10-20,2023-04-20,2023-08-22
+2870233,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-10-15,2023-08-21,2023-02-11
+2058747,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-21,2023-01-03,2023-05-15
+2259577,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-05-22,2023-09-07,2023-08-14
+2564482,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-02-19,2023-12-05,2023-11-16
+2310633,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-07-07,2023-03-20,2023-03-03
+2707536,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-12-22,2023-07-18,2023-09-16
+2357999,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-04-26,2023-01-21,2023-07-17
+2595813,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - waiting on payment",,,2023-01-20,2023-06-09,2023-02-10
+2571279,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-10-13,2023-04-28,2023-07-09
+2552479,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-03-01,2023-07-18,2023-04-06
+2298763,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-07-01,2023-08-04,2023-12-17
+2673275,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-09-07,2023-09-01,2023-09-26
+2675615,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-16,2023-06-16,2023-07-03
+2580614,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-04-23,2023-05-17,2023-09-26
+2392784,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-05-14,2023-11-09,2023-06-24
+2602576,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-10-19,2023-02-02,2023-01-02
+2452335,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-06-07,2023-05-18,2023-08-29
+2349794,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-06-04,2024-01-03,2023-01-04
+2405107,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-06-13,2023-02-18,2023-09-09
+2085458,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-03-15,2023-05-19,2023-01-22
+2921963,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - phone service",,,2023-06-10,2023-12-09,2023-02-14
+2490004,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-03-31,2023-04-18,2023-05-27
+2742206,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-07-17,2023-09-08,2023-04-06
+2934550,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-08-01,2023-11-01,2023-12-09
+2536998,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-01-14,2023-09-10,2023-04-12
+2228303,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Issues loading text/call logs/voicemails",,,2023-07-23,2023-12-05,2023-08-17
+2860956,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-06-30,2023-01-21,2023-04-10
+2646222,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-03-27,2023-05-07,2023-01-11
+2415363,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-01-02,2023-02-17,2023-07-07
+2202347,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-12-15,2023-11-28,2023-06-29
+2621273,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-06-13,2023-03-29,2023-09-29
+2559495,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-05-31,2023-03-18,2023-12-24
+2888456,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Invoice issues",,,2023-12-27,2023-06-27,2023-10-04
+2795742,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-07-07,2023-04-27,2023-04-24
+2713348,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-09-08,2023-08-12,2023-03-03
+2088969,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-09-26,2023-05-12,2023-01-17
+2338621,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-07-23,2023-10-24,2023-09-27
+2196664,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-10-30,2023-02-28,2023-02-16
+2069955,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-07-23,2023-03-30,2023-06-21
+2030050,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-12-13,2023-05-15,2023-08-13
+2429485,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-07-09,2023-05-09,2023-06-25
+2023820,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-02-13,2023-09-23,2023-11-02
+2491520,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-10-17,2023-08-20,2023-05-03
+2088092,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Number port issues",,,2023-02-26,2023-08-16,2023-11-18
+2598358,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-10-23,2023-12-30,2023-07-17
+2176333,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-05-10,2024-01-01,2023-06-17
+2497691,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Voicemail Issues",,,2023-04-03,2023-07-16,2023-12-23
+2080612,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-02-09,2023-09-11,2023-08-03
+2434660,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-03-10,2023-10-03,2023-06-01
+2797598,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-05-20,2023-06-09,2023-11-09
+2192770,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-04-18,2023-08-11,2023-01-03
+2882283,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2024-01-04,2023-05-20,2023-01-23
+2454471,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2024-01-02,2023-02-06,2023-09-04
+2411760,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-02-14,2024-01-04,2023-08-21
+2999152,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-10-09,2023-04-30,2023-05-06
+2933385,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-07-21,2023-09-24,2024-01-07
+2896549,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-05-11,2023-02-14,2023-10-26
+2861274,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-09-23,2024-01-03,2023-08-22
+2548885,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-04-25,2023-06-15,2023-08-01
+2212149,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-05-31,2023-07-21,2023-03-07
+2974254,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-02-27,2023-01-15,2023-11-15
+2124110,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Making/Accepting calls",,,2023-04-01,2024-01-05,2023-07-22
+2019721,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-06-03,2023-06-08,2023-03-26
+2912565,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-10-28,2023-05-20,2023-01-11
+2461675,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-04-09,2023-02-24,2023-02-18
+2227578,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-07-28,2023-03-07,2023-12-06
+2655653,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-06-13,2023-12-22,2023-08-11
+2104751,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-16,2023-06-15,2023-10-14
+2522981,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-11-28,2023-02-25,2023-04-03
+2423194,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-03-17,2023-06-08,2023-11-07
+2842010,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-10-13,2023-05-11,2023-06-26
+2385864,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-08-26,2023-09-02,2023-06-04
+2295013,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-10-02,2023-01-17,2023-05-02
+2636901,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-10-31,2023-03-16,2023-10-10
+2950940,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-08-17,2023-03-16,2023-10-22
+2791493,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - In app/portal features not working",,,2023-12-27,2023-06-19,2023-07-02
+2934777,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-07-02,2023-02-24,2023-12-01
+2430182,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Time Stamp issues",,,2023-01-30,2023-02-19,2023-09-25
+2422479,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-12-16,2023-10-18,2023-08-10
+2980509,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - VO and PS not linked correctly",,,2023-04-20,2023-08-12,2023-01-16
+2088773,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-05-19,2023-07-11,2023-12-13
+2344483,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-03-27,2023-09-01,2023-11-14
+2234792,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-09-26,2023-12-11,2023-03-02
+2380722,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-04-06,2023-03-22,2023-07-15
+2625020,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-04-23,2023-04-17,2023-02-11
+2040919,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-05-16,2023-04-21,2023-04-19
+2314558,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-03-12,2023-06-16,2023-03-11
+2075917,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-10-12,2023-04-26,2023-08-21
+2677145,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-03-21,2023-06-08,2023-04-26
+2877957,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-11-29,2023-12-06,2023-12-28
+2059250,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-12-06,2023-09-19,2023-06-07
+2592211,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-09-12,2023-09-05,2023-03-03
+2185189,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-03-01,2023-03-29,2023-12-21
+2565927,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Remove phone number from # pool",,,2023-09-05,2023-06-16,2023-01-07
+2711008,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-11-03,2023-11-24,2023-04-02
+2456979,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-07-10,2024-01-07,2023-01-21
+2158914,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Multiline issues",,,2023-09-26,2023-01-03,2023-07-31
+2684198,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Making/Accepting calls",,,2023-10-08,2023-10-25,2023-12-13
+2813605,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-05-17,2023-04-01,2023-04-18
+2516153,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-08-08,2023-11-28,2023-12-24
+2240059,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-02-02,2023-07-13,2023-08-08
+2855250,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-12-29,2023-11-10,2023-06-14
+2777997,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-07-18,2023-02-17,2023-01-25
+2252196,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-01-27,2023-07-29,2023-07-18
+2538245,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Number port issues",,,2023-12-23,2023-12-25,2023-09-10
+2291047,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-03-24,2023-02-27,2023-04-14
+2999396,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-09-29,2023-06-25,2023-11-22
+2535749,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-01-08,2023-10-11,2023-10-20
+2515634,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-09-02,2023-08-14,2023-07-08
+2101029,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App availability issues",,,2023-01-19,2023-03-26,2023-04-03
+2462869,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-03-02,2023-12-18,2023-12-19
+2578234,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-08-04,2023-12-01,2023-06-10
+2066317,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-07-05,2023-02-20,2023-08-13
+2319376,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-09-21,2023-10-14,2023-01-07
+2909008,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-05-17,2023-08-17,2023-08-27
+2360742,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-11-15,2023-08-15,2023-05-10
+2562948,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-08-24,2023-12-30,2023-12-17
+2257169,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Stuck in Waiting on Payment status",,,2023-10-04,2023-10-14,2024-01-05
+2546901,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-01-26,2023-01-26,2023-08-11
+2211799,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Issues loading text/call logs/voicemails",,,2023-09-24,2023-02-04,2023-02-04
+2963367,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-06-25,2023-09-28,2023-09-20
+2501449,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-06-19,2023-09-17,2023-09-12
+2763472,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-04-24,2023-11-29,2023-04-23
+2878082,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-01-16,2023-03-09,2023-12-08
+2148187,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-04-21,2023-06-11,2023-08-29
+2042536,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Making/Accepting calls",,,2023-04-02,2023-07-05,2023-04-19
+2562581,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-25,2023-08-01,2023-10-22
+2607540,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-04-19,2023-10-18,2023-08-20
+2542145,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Remove phone number from # pool",,,2023-10-19,2023-03-02,2023-01-03
+2530936,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2023-07-01,2023-06-02,2023-03-15
+2750405,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Invoice issues",,,2023-01-29,2023-11-06,2023-09-03
+2231110,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-12-28,2023-11-01,2023-04-19
+2329879,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-01-17,2023-10-09,2023-04-06
+2139579,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - waiting on payment",,,2023-10-07,2023-05-08,2023-09-03
+2277102,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-08-11,2023-01-10,2023-05-08
+2354766,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-06-24,2023-02-19,2023-11-18
+2010299,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-11-02,2023-10-25,2023-04-15
+2815012,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Stuck in Waiting on Payment status",,,2023-07-21,2023-09-11,2023-06-15
+2596362,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-11-28,2023-03-31,2023-01-13
+2783805,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - phone service",,,2023-08-07,2023-02-10,2023-05-26
+2436444,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Remove phone number from # pool",,,2023-11-16,2023-12-27,2023-01-03
+2609511,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-04-02,2023-01-26,2023-06-29
+2397433,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App freezing",,,2023-11-16,2023-06-26,2023-12-05
+2869743,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - App availability issues",,,2023-02-11,2023-06-02,2023-06-22
+2663834,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Number port issues",,,2023-06-05,2023-10-08,2023-12-12
+2364552,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-11-18,2023-03-02,2023-07-12
+2936310,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-10-28,2023-08-22,2023-12-03
+2464789,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-04-01,2023-05-28,2023-08-10
+2142260,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Multiline issues",,,2023-06-20,2023-08-22,2023-12-20
+2182369,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2024-01-02,2023-04-19,2023-01-18
+2685332,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-02-17,2023-08-30,2023-01-28
+2773720,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - phone service",,,2024-01-07,2023-02-15,2023-09-05
+2443160,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Voicemail Issues",,,2023-05-20,2023-06-30,2023-11-12
+2889883,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-11-07,2023-04-06,2023-01-03
+2924315,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-08-10,2023-10-09,2023-11-10
+2212128,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App availability issues",,,2023-10-13,2023-04-20,2023-01-12
+2421590,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - App freezing",,,2023-04-09,2023-01-10,2023-02-07
+2809373,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Remove phone number from # pool",,,2023-07-16,2023-11-15,2023-06-29
+2381666,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-11-14,2023-04-22,2023-03-26
+2599450,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2024-01-04,2023-07-09,2023-05-27
+2212124,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App availability issues",,,2023-02-10,2023-06-05,2023-07-25
+2556201,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-05-05,2023-09-12,2023-01-06
+2299300,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - App freezing",,,2023-10-24,2023-06-10,2023-04-02
+2237307,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Stuck in Waiting on Payment status",,,2023-09-18,2023-10-26,2023-10-20
+2557462,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-11-21,2023-11-28,2023-04-21
+2097969,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Time Stamp issues",,,2023-11-09,2023-09-06,2023-12-26
+2124657,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - VO and PS not linked correctly",,,2023-03-21,2023-06-14,2023-10-21
+2426526,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Multiline issues",,,2023-03-19,2023-10-02,2023-09-18
+2279718,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Issues loading text/call logs/voicemails",,,2023-02-04,2023-03-01,2023-09-05
+2472123,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Automated Email issues",,,2023-03-14,2023-08-21,2023-08-14
+2210829,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - In app/portal features not working",,,2023-09-15,2023-07-03,2023-08-30
+2865397,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-04-20,2023-08-19,2023-09-22
+2967431,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - waiting on payment",,,2023-01-17,2023-01-21,2023-12-05
+2209949,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Voicemail Issues",,,2023-09-24,2023-06-09,2023-02-22
+2797352,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Automated Email issues",,,2023-02-10,2023-03-10,2023-04-20
+2775674,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-12-05,2023-10-14,2023-11-04
+2971828,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-02-19,2023-11-18,2023-08-14
+2016057,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - phone service",,,2023-10-05,2023-03-18,2023-07-29
+2810167,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Automated Email issues",,,2023-03-14,2023-07-01,2023-05-22
+2648693,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - VO and PS not linked correctly",,,2023-11-18,2023-11-12,2023-06-11
+2181090,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2024-01-05,2023-01-13,2023-01-27
+2088244,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Invoice issues",,,2023-06-27,2023-07-15,2023-06-26
+2218816,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - App freezing",,,2023-10-20,2023-05-04,2023-10-28
+2516258,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Voicemail Issues",,,2023-01-24,2023-07-25,2023-01-30
+2864210,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-07-27,2023-08-20,2023-06-27
+2957307,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - VO and PS not linked correctly",,,2023-11-18,2023-05-18,2023-10-26
+2745219,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Number port issues",,,2023-02-23,2023-12-28,2023-07-15
+2837072,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-09-12,2023-09-16,2023-01-01
+2242878,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - In app/portal features not working",,,2023-07-22,2023-05-04,2023-07-31
+2757477,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - Issues loading text/call logs/voicemails",,,2023-12-13,2023-07-29,2023-10-11
+2829375,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,"Primary tag - General,Secondary tag - waiting on payment",,,2023-04-28,2023-05-30,2023-05-30
+2029999,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-01-15,2023-01-11,2023-10-15
+2702180,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Stuck in Waiting on Payment status",,,2023-03-19,2023-12-19,2024-01-07
+2791166,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - Web,Secondary tag - Automated Email issues",,,2023-02-06,2023-10-28,2023-07-08
+2789895,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Invoice issues",,,2023-03-08,2023-07-28,2024-01-03
+2447973,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,"Primary tag - iOS,Secondary tag - Time Stamp issues",,,2023-09-13,2023-07-31,2023-02-16
+2047536,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - In app/portal features not working",,,2023-12-02,2023-04-15,2023-05-21
+2472731,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,"Primary tag - Android,Secondary tag - Multiline issues",,,2023-08-29,2023-04-01,2023-12-08
