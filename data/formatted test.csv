@@ -1,0 +1,1001 @@
+#,Title,State,Priority,Group,Owner,Customer,Organization,Create Channel,Sender,Tag 1,Tag 2,Time Units,Pending till,Created At,Month,Quarter,Updated At,Closed At
+2897592,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,1/30/2023,January,Q1,10/24/2023,2/21/2023
+2557105,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Number port issues,,,9/26/2023,September,Q3,11/11/2023,8/22/2023
+2783395,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Automated Email issues,,,7/12/2023,July,Q3,1/27/2023,8/18/2023
+2895870,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,waiting on payment,,,10/3/2023,October,Q4,5/13/2023,5/13/2023
+2212413,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Invoice issues,,,5/25/2023,May,Q2,4/21/2023,4/4/2023
+2140505,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,10/30/2023,October,Q4,8/29/2023,3/21/2023
+2677878,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,4/21/2023,April,Q2,7/6/2023,5/8/2023
+2798945,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Invoice issues,,,7/11/2023,July,Q3,1/19/2023,1/5/2024
+2340724,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,6/7/2023,June,Q2,5/16/2023,12/4/2023
+2299828,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,1/8/2023,January,Q1,11/21/2023,1/24/2023
+2524907,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App availability issues,,,5/24/2023,May,Q2,8/11/2023,10/26/2023
+2398814,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,waiting on payment,,,3/24/2023,March,Q1,1/23/2023,2/8/2023
+2176866,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Number port issues,,,3/17/2023,March,Q1,1/19/2023,12/13/2023
+2705516,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Time Stamp issues,,,4/9/2023,April,Q2,11/23/2023,3/10/2023
+2186890,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,3/19/2023,March,Q1,11/28/2023,1/15/2023
+2670639,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,4/15/2023,April,Q2,1/5/2023,8/23/2023
+2056823,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Number port issues,,,7/20/2023,July,Q3,5/15/2023,2/9/2023
+2980054,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,7/1/2023,July,Q3,1/16/2023,5/18/2023
+2447973,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Automated Email issues,,,8/25/2023,August,Q3,8/4/2023,12/17/2023
+2245431,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,10/27/2023,October,Q4,4/4/2023,2/2/2023
+2695394,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Voicemail Issues,,,9/5/2023,September,Q3,9/26/2023,11/5/2023
+2099803,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,5/11/2023,May,Q2,7/13/2023,9/15/2023
+2371359,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,11/24/2023,November,Q4,8/8/2023,12/14/2023
+2100664,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,3/4/2023,March,Q1,2/9/2023,9/20/2023
+2784393,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App freezing,,,3/21/2023,March,Q1,10/6/2023,11/9/2023
+2033267,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,phone service,,,3/21/2023,March,Q1,9/10/2023,2/11/2023
+2226217,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,3/3/2023,March,Q1,12/23/2023,11/12/2023
+2297268,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,5/19/2023,May,Q2,12/7/2023,1/26/2023
+2240442,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,9/13/2023,September,Q3,6/1/2023,4/10/2023
+2689854,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,1/15/2023,January,Q1,11/17/2023,5/10/2023
+2577527,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,8/19/2023,August,Q3,1/30/2023,8/6/2023
+2712685,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,11/10/2023,November,Q4,9/16/2023,2/7/2023
+2688253,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Multiline issues,,,12/8/2023,December,Q4,9/8/2023,10/15/2023
+2473873,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Invoice issues,,,12/7/2023,December,Q4,10/3/2023,5/23/2023
+2715872,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,9/9/2023,September,Q3,4/4/2023,1/1/2023
+2708283,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,10/5/2023,October,Q4,3/24/2023,1/7/2024
+2396207,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,3/22/2023,March,Q1,8/15/2023,7/26/2023
+2375691,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,6/18/2023,June,Q2,9/5/2023,10/21/2023
+2351888,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Voicemail Issues,,,3/11/2023,March,Q1,7/13/2023,11/1/2023
+2182414,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,1/26/2023,January,Q1,10/17/2023,10/29/2023
+2335967,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Time Stamp issues,,,8/28/2023,August,Q3,3/27/2023,6/17/2023
+2035367,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Invoice issues,,,11/24/2023,November,Q4,11/3/2023,7/11/2023
+2189146,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,6/15/2023,June,Q2,12/10/2023,4/4/2023
+2843071,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,6/15/2023,June,Q2,3/3/2023,3/27/2023
+2745483,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,1/13/2023,January,Q1,1/3/2024,6/20/2023
+2158751,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,7/3/2023,July,Q3,10/30/2023,10/12/2023
+2647141,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,3/30/2023,March,Q1,10/6/2023,1/19/2023
+2810187,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,10/18/2023,October,Q4,7/22/2023,5/8/2023
+2535735,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,10/28/2023,October,Q4,12/13/2023,5/22/2023
+2297363,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,5/6/2023,May,Q2,12/31/2023,12/25/2023
+2715422,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,phone service,,,4/4/2023,April,Q2,5/30/2023,3/26/2023
+2697666,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,5/19/2023,May,Q2,5/21/2023,3/13/2023
+2905587,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,11/20/2023,November,Q4,1/7/2024,11/18/2023
+2513093,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App freezing,,,11/1/2023,November,Q4,3/27/2023,6/15/2023
+2103138,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,10/8/2023,October,Q4,3/25/2023,11/23/2023
+2984218,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Time Stamp issues,,,4/20/2023,April,Q2,10/16/2023,11/11/2023
+2351685,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,4/19/2023,April,Q2,12/6/2023,7/13/2023
+2570304,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,10/20/2023,October,Q4,6/14/2023,12/2/2023
+2580981,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,10/29/2023,October,Q4,7/20/2023,11/25/2023
+2678333,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App availability issues,,,10/25/2023,October,Q4,4/19/2023,6/20/2023
+2978786,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,2/16/2023,February,Q1,4/29/2023,2/9/2023
+2963145,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,App freezing,,,8/15/2023,August,Q3,11/7/2023,4/27/2023
+2850364,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,11/3/2023,November,Q4,8/11/2023,11/4/2023
+2581121,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,11/22/2023,November,Q4,5/31/2023,2/24/2023
+2907125,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,6/15/2023,June,Q2,6/10/2023,12/6/2023
+2671227,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,10/10/2023,October,Q4,2/26/2023,9/22/2023
+2003921,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Voicemail Issues,,,12/1/2023,December,Q4,8/18/2023,4/17/2023
+2437354,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,2/6/2023,February,Q1,5/19/2023,6/24/2023
+2534545,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Multiline issues,,,10/13/2023,October,Q4,6/9/2023,10/3/2023
+2794502,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Invoice issues,,,8/6/2023,August,Q3,1/28/2023,10/25/2023
+2899077,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,waiting on payment,,,11/27/2023,November,Q4,3/6/2023,7/25/2023
+2087206,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Automated Email issues,,,5/30/2023,May,Q2,9/21/2023,2/13/2023
+2527232,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,1/1/2024,January,Q1,12/25/2023,6/30/2023
+2610859,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Invoice issues,,,12/21/2023,December,Q4,12/6/2023,11/13/2023
+2847934,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,11/11/2023,November,Q4,5/8/2023,8/25/2023
+2055410,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,1/1/2023,January,Q1,4/9/2023,8/12/2023
+2919497,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Time Stamp issues,,,4/29/2023,April,Q2,3/18/2023,4/20/2023
+2921351,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,11/3/2023,November,Q4,8/26/2023,5/20/2023
+2517430,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Number port issues,,,7/21/2023,July,Q3,4/5/2023,8/17/2023
+2091330,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,waiting on payment,,,3/9/2023,March,Q1,10/9/2023,5/21/2023
+2185407,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,10/12/2023,October,Q4,9/26/2023,3/9/2023
+2354532,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,7/12/2023,July,Q3,6/26/2023,12/27/2023
+2255327,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,6/12/2023,June,Q2,1/7/2024,6/8/2023
+2847207,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,12/16/2023,December,Q4,8/26/2023,2/14/2023
+2263192,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,3/26/2023,March,Q1,1/15/2023,4/24/2023
+2411723,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,9/23/2023,September,Q3,7/1/2023,9/16/2023
+2756202,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,2/22/2023,February,Q1,11/4/2023,6/26/2023
+2509477,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,In app/portal features not working,,,11/4/2023,November,Q4,8/6/2023,12/11/2023
+2580151,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,8/8/2023,August,Q3,7/26/2023,5/7/2023
+2912380,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,6/2/2023,June,Q2,8/11/2023,10/27/2023
+2302084,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Invoice issues,,,2/17/2023,February,Q1,10/4/2023,3/23/2023
+2924059,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,2/12/2023,February,Q1,9/21/2023,8/10/2023
+2622713,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,10/31/2023,October,Q4,5/4/2023,1/16/2023
+2992009,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,5/10/2023,May,Q2,6/24/2023,1/24/2023
+2340800,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,9/6/2023,September,Q3,3/4/2023,4/18/2023
+2949869,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,12/18/2023,December,Q4,6/17/2023,9/25/2023
+2686918,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Voicemail Issues,,,2/28/2023,February,Q1,5/1/2023,1/19/2023
+2073453,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Invoice issues,,,7/20/2023,July,Q3,12/12/2023,8/28/2023
+2363866,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,waiting on payment,,,6/22/2023,June,Q2,10/24/2023,8/31/2023
+2946834,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,phone service,,,12/15/2023,December,Q4,7/25/2023,1/3/2024
+2564322,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App availability issues,,,5/24/2023,May,Q2,12/3/2023,12/26/2023
+2646482,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,waiting on payment,,,3/30/2023,March,Q1,7/21/2023,2/23/2023
+2655544,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Automated Email issues,,,12/29/2023,December,Q4,3/13/2023,4/27/2023
+2504904,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,7/6/2023,July,Q3,11/1/2023,4/24/2023
+2418561,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,In app/portal features not working,,,3/12/2023,March,Q1,1/31/2023,10/21/2023
+2937572,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,6/4/2023,June,Q2,9/30/2023,1/21/2023
+2021854,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Multiline issues,,,5/1/2023,May,Q2,6/13/2023,3/8/2023
+2793759,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,10/23/2023,October,Q4,6/15/2023,5/31/2023
+2737059,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,9/7/2023,September,Q3,4/10/2023,3/5/2023
+2398233,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,In app/portal features not working,,,12/4/2023,December,Q4,6/14/2023,8/25/2023
+2436994,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Multiline issues,,,8/23/2023,August,Q3,2/18/2023,4/29/2023
+2313840,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,1/10/2023,January,Q1,7/12/2023,6/3/2023
+2499480,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App freezing,,,1/1/2024,January,Q1,2/5/2023,9/8/2023
+2809324,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,6/25/2023,June,Q2,1/1/2024,12/15/2023
+2538063,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,8/28/2023,August,Q3,7/1/2023,11/17/2023
+2116928,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Automated Email issues,,,1/26/2023,January,Q1,7/12/2023,11/24/2023
+2845852,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Number port issues,,,5/26/2023,May,Q2,3/16/2023,3/11/2023
+2959944,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,4/14/2023,April,Q2,11/18/2023,12/31/2023
+2877349,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Invoice issues,,,11/1/2023,November,Q4,5/28/2023,6/10/2023
+2450523,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Number port issues,,,11/22/2023,November,Q4,11/17/2023,6/11/2023
+2935158,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,12/3/2023,December,Q4,12/16/2023,7/19/2023
+2896051,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,6/12/2023,June,Q2,9/11/2023,11/10/2023
+2042073,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App availability issues,,,6/10/2023,June,Q2,11/7/2023,2/10/2023
+2397826,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Number port issues,,,4/25/2023,April,Q2,8/12/2023,1/2/2023
+2649188,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,1/5/2024,January,Q1,4/17/2023,10/4/2023
+2256042,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,1/6/2023,January,Q1,6/28/2023,5/12/2023
+2724985,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App availability issues,,,11/21/2023,November,Q4,3/16/2023,1/28/2023
+2591484,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,4/20/2023,April,Q2,9/24/2023,5/30/2023
+2553478,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,5/16/2023,May,Q2,4/25/2023,7/6/2023
+2801564,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Invoice issues,,,8/10/2023,August,Q3,1/7/2023,9/14/2023
+2199054,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,7/31/2023,July,Q3,9/21/2023,5/12/2023
+2825824,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Invoice issues,,,10/10/2023,October,Q4,4/26/2023,6/27/2023
+2584007,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,7/12/2023,July,Q3,9/1/2023,2/11/2023
+2946380,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,2/4/2023,February,Q1,11/3/2023,9/3/2023
+2660234,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,waiting on payment,,,3/29/2023,March,Q1,5/26/2023,7/16/2023
+2938892,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,3/6/2023,March,Q1,8/7/2023,5/11/2023
+2368505,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,10/24/2023,October,Q4,3/14/2023,12/24/2023
+2346336,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,1/27/2023,January,Q1,9/1/2023,7/21/2023
+2226727,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,3/12/2023,March,Q1,8/27/2023,11/5/2023
+2817662,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,8/12/2023,August,Q3,10/12/2023,11/27/2023
+2007864,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,7/20/2023,July,Q3,9/13/2023,8/9/2023
+2968818,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,11/9/2023,November,Q4,12/29/2023,11/25/2023
+2074774,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,4/23/2023,April,Q2,3/26/2023,7/20/2023
+2342611,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,6/8/2023,June,Q2,7/19/2023,3/15/2023
+2854355,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,8/6/2023,August,Q3,5/28/2023,10/22/2023
+2988167,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,6/28/2023,June,Q2,2/22/2023,3/1/2023
+2181251,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App freezing,,,6/29/2023,June,Q2,1/15/2023,1/2/2023
+2969393,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,10/31/2023,October,Q4,4/1/2023,9/8/2023
+2325794,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Multiline issues,,,9/30/2023,September,Q3,5/25/2023,12/23/2023
+2953720,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,1/7/2024,January,Q1,3/22/2023,12/24/2023
+2545562,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Time Stamp issues,,,3/26/2023,March,Q1,10/21/2023,10/31/2023
+2419808,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,waiting on payment,,,5/29/2023,May,Q2,3/23/2023,5/21/2023
+2265504,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,11/10/2023,November,Q4,1/26/2023,12/25/2023
+2510267,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,7/27/2023,July,Q3,10/27/2023,10/19/2023
+2805789,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,1/3/2024,January,Q1,8/20/2023,12/3/2023
+2183318,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Automated Email issues,,,3/18/2023,March,Q1,10/14/2023,9/27/2023
+2659593,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,5/25/2023,May,Q2,3/27/2023,4/2/2023
+2569940,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App freezing,,,5/16/2023,May,Q2,12/24/2023,12/15/2023
+2757682,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,2/26/2023,February,Q1,5/31/2023,10/25/2023
+2357270,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Multiline issues,,,2/13/2023,February,Q1,4/21/2023,9/18/2023
+2278577,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,1/15/2023,January,Q1,5/9/2023,6/25/2023
+2833657,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,9/22/2023,September,Q3,7/18/2023,12/13/2023
+2590109,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,7/24/2023,July,Q3,12/9/2023,7/20/2023
+2323788,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,4/22/2023,April,Q2,12/24/2023,7/7/2023
+2120571,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,11/5/2023,November,Q4,1/15/2023,6/6/2023
+2187653,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Multiline issues,,,7/10/2023,July,Q3,2/25/2023,6/13/2023
+2770062,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Automated Email issues,,,2/3/2023,February,Q1,7/30/2023,11/25/2023
+2056325,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,3/9/2023,March,Q1,6/12/2023,10/11/2023
+2084343,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,6/4/2023,June,Q2,4/22/2023,9/10/2023
+2195143,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,3/8/2023,March,Q1,1/21/2023,11/15/2023
+2086651,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Automated Email issues,,,11/20/2023,November,Q4,8/29/2023,1/27/2023
+2751506,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,phone service,,,5/18/2023,May,Q2,3/29/2023,10/27/2023
+2543698,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Time Stamp issues,,,9/6/2023,September,Q3,9/7/2023,9/12/2023
+2053052,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,5/12/2023,May,Q2,3/31/2023,8/7/2023
+2257464,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,10/24/2023,October,Q4,8/11/2023,9/27/2023
+2281682,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,1/30/2023,January,Q1,6/17/2023,7/24/2023
+2920518,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,5/10/2023,May,Q2,9/19/2023,9/4/2023
+2441788,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Automated Email issues,,,7/26/2023,July,Q3,7/10/2023,1/29/2023
+2025913,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,11/15/2023,November,Q4,8/22/2023,3/4/2023
+2403391,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,3/5/2023,March,Q1,1/3/2023,5/27/2023
+2078509,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,6/5/2023,June,Q2,7/24/2023,4/14/2023
+2819509,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,2/25/2023,February,Q1,3/2/2023,3/7/2023
+2554452,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,10/1/2023,October,Q4,4/10/2023,10/11/2023
+2869137,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Number port issues,,,1/14/2023,January,Q1,2/6/2023,9/28/2023
+2858125,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,12/26/2023,December,Q4,7/22/2023,10/6/2023
+2878712,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,1/15/2023,January,Q1,11/3/2023,6/23/2023
+2767399,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,8/24/2023,August,Q3,6/13/2023,4/7/2023
+2289572,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,9/9/2023,September,Q3,12/21/2023,6/6/2023
+2050128,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Multiline issues,,,10/23/2023,October,Q4,6/13/2023,2/18/2023
+2991574,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App freezing,,,9/19/2023,September,Q3,6/22/2023,12/28/2023
+2290670,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,7/31/2023,July,Q3,1/4/2024,3/26/2023
+2590166,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,8/12/2023,August,Q3,4/3/2023,2/11/2023
+2570783,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,1/27/2023,January,Q1,12/21/2023,2/26/2023
+2892922,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,In app/portal features not working,,,6/24/2023,June,Q2,11/2/2023,11/17/2023
+2471806,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Voicemail Issues,,,2/10/2023,February,Q1,6/4/2023,5/14/2023
+2070747,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,7/9/2023,July,Q3,9/9/2023,12/25/2023
+2555591,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,waiting on payment,,,7/25/2023,July,Q3,8/29/2023,9/10/2023
+2415125,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,9/22/2023,September,Q3,8/26/2023,2/11/2023
+2532820,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,1/27/2023,January,Q1,12/30/2023,5/4/2023
+2480800,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,9/4/2023,September,Q3,5/28/2023,12/13/2023
+2759168,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,6/24/2023,June,Q2,5/18/2023,7/5/2023
+2239176,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App availability issues,,,11/23/2023,November,Q4,2/22/2023,9/11/2023
+2660199,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,5/4/2023,May,Q2,3/12/2023,8/18/2023
+2524996,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Invoice issues,,,10/27/2023,October,Q4,7/15/2023,3/16/2023
+2859532,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,11/29/2023,November,Q4,9/2/2023,7/20/2023
+2632379,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,4/26/2023,April,Q2,7/17/2023,5/14/2023
+2156157,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App availability issues,,,4/15/2023,April,Q2,12/8/2023,12/22/2023
+2302545,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,10/24/2023,October,Q4,10/23/2023,2/7/2023
+2547432,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,waiting on payment,,,6/22/2023,June,Q2,3/17/2023,11/15/2023
+2248565,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Invoice issues,,,11/5/2023,November,Q4,4/8/2023,10/25/2023
+2144882,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,phone service,,,5/1/2023,May,Q2,8/20/2023,2/19/2023
+2541506,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,phone service,,,6/18/2023,June,Q2,11/28/2023,8/26/2023
+2899866,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,11/29/2023,November,Q4,7/23/2023,9/19/2023
+2014092,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,2/27/2023,February,Q1,7/7/2023,6/5/2023
+2292168,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,3/24/2023,March,Q1,12/24/2023,9/9/2023
+2892949,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,2/28/2023,February,Q1,7/11/2023,3/20/2023
+2364942,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App availability issues,,,10/23/2023,October,Q4,9/22/2023,12/25/2023
+2076560,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,1/30/2023,January,Q1,10/11/2023,9/29/2023
+2563912,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Multiline issues,,,4/17/2023,April,Q2,11/16/2023,4/16/2023
+2360484,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App availability issues,,,4/24/2023,April,Q2,9/12/2023,11/11/2023
+2074426,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Number port issues,,,2/28/2023,February,Q1,9/9/2023,1/11/2023
+2469015,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,9/19/2023,September,Q3,7/5/2023,7/20/2023
+2772302,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,12/17/2023,December,Q4,11/11/2023,12/20/2023
+2672328,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,4/14/2023,April,Q2,9/12/2023,7/20/2023
+2646535,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App freezing,,,4/5/2023,April,Q2,9/28/2023,4/20/2023
+2313190,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Invoice issues,,,12/19/2023,December,Q4,1/12/2023,5/15/2023
+2835027,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Time Stamp issues,,,11/3/2023,November,Q4,7/11/2023,2/27/2023
+2140928,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,3/17/2023,March,Q1,9/14/2023,1/15/2023
+2477776,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,7/19/2023,July,Q3,11/4/2023,4/22/2023
+2915072,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Number port issues,,,4/9/2023,April,Q2,1/1/2024,11/5/2023
+2459639,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,12/9/2023,December,Q4,6/30/2023,12/25/2023
+2729011,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,11/24/2023,November,Q4,4/21/2023,10/10/2023
+2517958,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,3/11/2023,March,Q1,9/10/2023,7/30/2023
+2666047,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Automated Email issues,,,1/2/2023,January,Q1,3/19/2023,2/17/2023
+2563770,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Invoice issues,,,7/4/2023,July,Q3,7/16/2023,11/24/2023
+2703852,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,8/12/2023,August,Q3,8/19/2023,7/14/2023
+2381812,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,5/27/2023,May,Q2,11/27/2023,2/26/2023
+2845950,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App freezing,,,2/9/2023,February,Q1,6/30/2023,11/24/2023
+2609249,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App availability issues,,,10/7/2023,October,Q4,8/20/2023,4/22/2023
+2765847,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,8/22/2023,August,Q3,1/11/2023,10/24/2023
+2281701,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Number port issues,,,12/7/2023,December,Q4,10/16/2023,6/28/2023
+2288887,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,6/2/2023,June,Q2,7/4/2023,10/3/2023
+2218794,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,9/19/2023,September,Q3,8/17/2023,11/20/2023
+2813979,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Automated Email issues,,,4/20/2023,April,Q2,10/18/2023,9/20/2023
+2235725,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,In app/portal features not working,,,7/10/2023,July,Q3,6/26/2023,8/22/2023
+2312716,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Number port issues,,,12/12/2023,December,Q4,10/7/2023,12/18/2023
+2140689,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,11/11/2023,November,Q4,12/13/2023,11/24/2023
+2838486,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Number port issues,,,8/6/2023,August,Q3,11/28/2023,5/25/2023
+2097342,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,10/25/2023,October,Q4,12/3/2023,6/4/2023
+2197437,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Number port issues,,,6/16/2023,June,Q2,4/11/2023,8/22/2023
+2266007,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,9/29/2023,September,Q3,4/16/2023,9/6/2023
+2840907,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Voicemail Issues,,,11/24/2023,November,Q4,12/6/2023,3/8/2023
+2469126,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App availability issues,,,7/24/2023,July,Q3,3/19/2023,12/12/2023
+2993028,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Voicemail Issues,,,4/19/2023,April,Q2,11/13/2023,8/15/2023
+2901376,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,phone service,,,4/27/2023,April,Q2,1/3/2023,9/1/2023
+2106745,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,8/29/2023,August,Q3,11/22/2023,6/21/2023
+2189096,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,In app/portal features not working,,,1/8/2023,January,Q1,8/3/2023,2/1/2023
+2118535,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Number port issues,,,5/9/2023,May,Q2,8/22/2023,9/28/2023
+2330910,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,4/11/2023,April,Q2,1/18/2023,11/25/2023
+2486918,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,phone service,,,7/30/2023,July,Q3,5/10/2023,9/21/2023
+2076743,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,9/23/2023,September,Q3,3/19/2023,2/26/2023
+2176410,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,5/14/2023,May,Q2,9/28/2023,12/1/2023
+2228504,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,1/3/2023,January,Q1,3/16/2023,5/22/2023
+2486421,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,2/3/2023,February,Q1,1/2/2023,10/12/2023
+2241724,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,6/26/2023,June,Q2,8/3/2023,11/10/2023
+2003509,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Invoice issues,,,2/28/2023,February,Q1,9/7/2023,6/30/2023
+2788193,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,7/29/2023,July,Q3,12/5/2023,1/5/2023
+2980390,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,10/29/2023,October,Q4,3/28/2023,12/16/2023
+2759582,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,9/29/2023,September,Q3,1/5/2024,12/21/2023
+2649219,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,1/10/2023,January,Q1,10/6/2023,8/27/2023
+2015913,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App availability issues,,,2/10/2023,February,Q1,10/3/2023,4/17/2023
+2717864,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,9/13/2023,September,Q3,3/5/2023,7/11/2023
+2720944,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,2/28/2023,February,Q1,9/10/2023,7/31/2023
+2658776,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App availability issues,,,12/21/2023,December,Q4,11/4/2023,9/23/2023
+2125965,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,3/8/2023,March,Q1,11/13/2023,4/11/2023
+2851554,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,phone service,,,8/30/2023,August,Q3,8/3/2023,7/26/2023
+2028630,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,1/29/2023,January,Q1,11/4/2023,3/20/2023
+2624447,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,4/24/2023,April,Q2,7/8/2023,9/11/2023
+2969979,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,3/9/2023,March,Q1,2/12/2023,1/14/2023
+2133075,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,8/11/2023,August,Q3,5/29/2023,10/5/2023
+2849105,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Automated Email issues,,,12/15/2023,December,Q4,7/9/2023,5/22/2023
+2433969,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,10/30/2023,October,Q4,3/2/2023,6/13/2023
+2706988,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,8/19/2023,August,Q3,1/12/2023,1/25/2023
+2651748,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Time Stamp issues,,,8/20/2023,August,Q3,9/14/2023,11/20/2023
+2169257,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,waiting on payment,,,9/3/2023,September,Q3,6/16/2023,1/13/2023
+2744253,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Voicemail Issues,,,8/13/2023,August,Q3,10/19/2023,11/7/2023
+2701684,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,7/6/2023,July,Q3,1/17/2023,10/9/2023
+2915564,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,1/14/2023,January,Q1,1/9/2023,7/3/2023
+2193037,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,6/14/2023,June,Q2,3/13/2023,5/2/2023
+2524652,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App freezing,,,5/31/2023,May,Q2,11/11/2023,5/30/2023
+2618793,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,phone service,,,2/23/2023,February,Q1,8/20/2023,5/4/2023
+2393520,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Multiline issues,,,7/29/2023,July,Q3,2/22/2023,10/18/2023
+2080893,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Voicemail Issues,,,12/29/2023,December,Q4,1/29/2023,6/19/2023
+2396198,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,7/9/2023,July,Q3,12/14/2023,3/28/2023
+2345743,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Number port issues,,,9/19/2023,September,Q3,10/27/2023,3/21/2023
+2014202,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,4/14/2023,April,Q2,6/22/2023,7/18/2023
+2741677,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,10/29/2023,October,Q4,1/21/2023,9/30/2023
+2922000,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Making/Accepting calls,,,6/2/2023,June,Q2,10/9/2023,3/28/2023
+2618327,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Automated Email issues,,,2/2/2023,February,Q1,2/28/2023,5/16/2023
+2213979,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Automated Email issues,,,8/25/2023,August,Q3,7/11/2023,12/13/2023
+2653833,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,waiting on payment,,,1/30/2023,January,Q1,5/26/2023,12/24/2023
+2211990,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,7/14/2023,July,Q3,8/6/2023,11/1/2023
+2947231,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Invoice issues,,,2/6/2023,February,Q1,10/21/2023,10/24/2023
+2353248,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,3/14/2023,March,Q1,6/9/2023,4/3/2023
+2986820,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,4/18/2023,April,Q2,12/26/2023,11/24/2023
+2968289,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,phone service,,,6/24/2023,June,Q2,12/25/2023,4/1/2023
+2528776,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,8/9/2023,August,Q3,1/1/2023,3/22/2023
+2263576,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,3/31/2023,March,Q1,6/1/2023,1/1/2023
+2230361,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Number port issues,,,4/6/2023,April,Q2,4/5/2023,6/3/2023
+2607196,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,6/17/2023,June,Q2,5/19/2023,9/5/2023
+2466904,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Number port issues,,,1/5/2024,January,Q1,2/8/2023,2/6/2023
+2428138,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,10/5/2023,October,Q4,8/27/2023,4/7/2023
+2143622,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,2/9/2023,February,Q1,1/14/2023,11/7/2023
+2550335,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,1/31/2023,January,Q1,8/26/2023,2/23/2023
+2554289,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,11/23/2023,November,Q4,7/25/2023,7/21/2023
+2381623,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,5/4/2023,May,Q2,2/14/2023,9/18/2023
+2717571,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,7/14/2023,July,Q3,4/4/2023,6/25/2023
+2234057,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,3/9/2023,March,Q1,9/18/2023,6/1/2023
+2435227,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,6/20/2023,June,Q2,12/9/2023,5/20/2023
+2383936,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Invoice issues,,,3/23/2023,March,Q1,11/16/2023,8/13/2023
+2963145,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,12/25/2023,December,Q4,1/19/2023,5/20/2023
+2815584,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,11/19/2023,November,Q4,6/14/2023,1/10/2023
+2358647,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Multiline issues,,,9/5/2023,September,Q3,2/13/2023,11/5/2023
+2700066,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,In app/portal features not working,,,5/29/2023,May,Q2,12/8/2023,2/3/2023
+2790976,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,12/7/2023,December,Q4,1/23/2023,1/11/2023
+2630095,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,phone service,,,11/24/2023,November,Q4,6/8/2023,8/16/2023
+2808195,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,12/27/2023,December,Q4,4/12/2023,11/1/2023
+2084350,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Time Stamp issues,,,2/19/2023,February,Q1,12/5/2023,10/7/2023
+2041069,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,4/28/2023,April,Q2,9/28/2023,9/16/2023
+2700338,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,12/8/2023,December,Q4,9/15/2023,4/20/2023
+2199395,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,9/5/2023,September,Q3,3/3/2023,4/13/2023
+2352213,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App availability issues,,,8/7/2023,August,Q3,7/28/2023,7/2/2023
+2583569,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,1/7/2023,January,Q1,2/5/2023,3/20/2023
+2789587,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,3/21/2023,March,Q1,9/29/2023,10/29/2023
+2740401,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,9/16/2023,September,Q3,10/18/2023,9/20/2023
+2467188,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,1/22/2023,January,Q1,9/28/2023,4/22/2023
+2903544,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,8/1/2023,August,Q3,11/4/2023,12/11/2023
+2447846,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Invoice issues,,,10/23/2023,October,Q4,4/22/2023,6/30/2023
+2221456,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Invoice issues,,,10/22/2023,October,Q4,5/7/2023,7/15/2023
+2603177,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,8/18/2023,August,Q3,4/24/2023,5/15/2023
+2229264,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,11/10/2023,November,Q4,6/11/2023,9/8/2023
+2027067,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,10/17/2023,October,Q4,1/1/2023,11/14/2023
+2587270,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,11/21/2023,November,Q4,7/11/2023,6/20/2023
+2756026,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,3/11/2023,March,Q1,10/15/2023,7/14/2023
+2210662,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Automated Email issues,,,5/3/2023,May,Q2,3/11/2023,1/2/2023
+2223772,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Multiline issues,,,9/21/2023,September,Q3,7/31/2023,12/3/2023
+2323333,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,12/26/2023,December,Q4,3/4/2023,6/19/2023
+2056197,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,9/8/2023,September,Q3,9/11/2023,2/21/2023
+2034097,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,4/24/2023,April,Q2,1/25/2023,7/20/2023
+2225257,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,6/12/2023,June,Q2,5/4/2023,9/12/2023
+2700353,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,11/26/2023,November,Q4,11/19/2023,10/22/2023
+2573193,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,11/29/2023,November,Q4,1/8/2023,10/12/2023
+2299971,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,In app/portal features not working,,,2/20/2023,February,Q1,7/20/2023,8/11/2023
+2707578,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Multiline issues,,,4/18/2023,April,Q2,10/11/2023,8/12/2023
+2414925,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Making/Accepting calls,,,8/7/2023,August,Q3,2/9/2023,2/6/2023
+2407245,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,7/11/2023,July,Q3,8/5/2023,5/19/2023
+2851053,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,5/22/2023,May,Q2,8/8/2023,4/13/2023
+2517324,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Invoice issues,,,8/14/2023,August,Q3,9/1/2023,9/21/2023
+2410912,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,12/11/2023,December,Q4,8/23/2023,3/20/2023
+2799462,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,12/29/2023,December,Q4,10/17/2023,1/5/2024
+2756962,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App availability issues,,,3/30/2023,March,Q1,1/1/2024,9/4/2023
+2071848,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,12/12/2023,December,Q4,4/7/2023,8/28/2023
+2641677,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,1/10/2023,January,Q1,5/6/2023,11/5/2023
+2918593,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,2/23/2023,February,Q1,1/17/2023,9/6/2023
+2016803,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,11/22/2023,November,Q4,10/22/2023,3/7/2023
+2977146,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,10/9/2023,October,Q4,8/5/2023,4/23/2023
+2753573,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,12/14/2023,December,Q4,6/2/2023,12/9/2023
+2725910,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,1/4/2024,January,Q1,5/2/2023,5/7/2023
+2647891,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App freezing,,,1/9/2023,January,Q1,4/23/2023,2/20/2023
+2499003,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,5/25/2023,May,Q2,7/29/2023,9/22/2023
+2545413,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,In app/portal features not working,,,9/15/2023,September,Q3,3/17/2023,6/6/2023
+2787461,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Time Stamp issues,,,11/8/2023,November,Q4,3/10/2023,10/18/2023
+2688798,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,1/10/2023,January,Q1,9/24/2023,10/16/2023
+2670496,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,10/1/2023,October,Q4,10/25/2023,9/23/2023
+2465481,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,12/6/2023,December,Q4,11/28/2023,6/21/2023
+2137415,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,8/29/2023,August,Q3,5/10/2023,11/13/2023
+2682063,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,phone service,,,10/12/2023,October,Q4,1/22/2023,3/3/2023
+2830472,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App availability issues,,,5/8/2023,May,Q2,2/8/2023,2/14/2023
+2238301,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,1/17/2023,January,Q1,12/23/2023,4/15/2023
+2128796,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,11/30/2023,November,Q4,9/9/2023,6/24/2023
+2906293,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,waiting on payment,,,7/28/2023,July,Q3,8/16/2023,9/12/2023
+2782021,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Automated Email issues,,,7/28/2023,July,Q3,3/9/2023,10/25/2023
+2997958,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Invoice issues,,,1/10/2023,January,Q1,10/30/2023,1/31/2023
+2736364,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,waiting on payment,,,7/13/2023,July,Q3,8/24/2023,3/4/2023
+2165804,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,8/17/2023,August,Q3,8/28/2023,5/4/2023
+2913006,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,phone service,,,1/2/2023,January,Q1,6/29/2023,12/20/2023
+2209781,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,3/5/2023,March,Q1,3/25/2023,11/17/2023
+2262983,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,1/8/2023,January,Q1,1/24/2023,3/6/2023
+2962440,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Invoice issues,,,6/21/2023,June,Q2,7/23/2023,2/16/2023
+2796010,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,11/20/2023,November,Q4,2/23/2023,10/31/2023
+2973336,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,phone service,,,11/23/2023,November,Q4,3/28/2023,10/28/2023
+2789449,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,waiting on payment,,,8/25/2023,August,Q3,8/1/2023,7/26/2023
+2676719,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,In app/portal features not working,,,8/20/2023,August,Q3,6/26/2023,4/12/2023
+2131658,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,5/12/2023,May,Q2,11/24/2023,9/10/2023
+2039289,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Automated Email issues,,,5/9/2023,May,Q2,12/5/2023,11/2/2023
+2872412,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,8/15/2023,August,Q3,7/30/2023,8/23/2023
+2066178,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Time Stamp issues,,,8/5/2023,August,Q3,1/14/2023,8/14/2023
+2092708,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,App freezing,,,2/10/2023,February,Q1,3/10/2023,7/17/2023
+2441625,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,8/11/2023,August,Q3,6/3/2023,9/18/2023
+2130718,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,10/8/2023,October,Q4,2/8/2023,7/23/2023
+2500695,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,4/11/2023,April,Q2,2/14/2023,6/20/2023
+2006780,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Number port issues,,,2/8/2023,February,Q1,7/4/2023,7/11/2023
+2518693,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Voicemail Issues,,,3/28/2023,March,Q1,7/15/2023,9/14/2023
+2590969,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,8/21/2023,August,Q3,9/2/2023,6/5/2023
+2242641,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,2/2/2023,February,Q1,12/6/2023,7/18/2023
+2137599,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Multiline issues,,,12/20/2023,December,Q4,9/15/2023,1/28/2023
+2378181,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,2/24/2023,February,Q1,7/4/2023,5/15/2023
+2368253,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Invoice issues,,,8/23/2023,August,Q3,7/1/2023,1/25/2023
+2707633,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App availability issues,,,7/24/2023,July,Q3,11/11/2023,2/10/2023
+2806282,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,phone service,,,12/4/2023,December,Q4,5/23/2023,11/9/2023
+2460172,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,9/4/2023,September,Q3,1/29/2023,1/15/2023
+2332508,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,12/1/2023,December,Q4,10/17/2023,4/20/2023
+2843220,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App availability issues,,,10/7/2023,October,Q4,12/19/2023,11/30/2023
+2250327,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App availability issues,,,5/28/2023,May,Q2,9/23/2023,6/24/2023
+2449368,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Voicemail Issues,,,7/9/2023,July,Q3,4/18/2023,7/23/2023
+2992346,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,8/21/2023,August,Q3,4/26/2023,6/9/2023
+2362522,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,1/5/2024,January,Q1,4/16/2023,3/13/2023
+2927841,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App availability issues,,,1/30/2023,January,Q1,2/26/2023,2/2/2023
+2148715,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,12/19/2023,December,Q4,6/28/2023,1/7/2024
+2042401,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Number port issues,,,9/13/2023,September,Q3,9/11/2023,4/19/2023
+2451483,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Automated Email issues,,,2/1/2023,February,Q1,6/7/2023,5/14/2023
+2910302,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,12/4/2023,December,Q4,2/12/2023,7/21/2023
+2601071,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Invoice issues,,,6/11/2023,June,Q2,10/17/2023,9/14/2023
+2792581,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,5/9/2023,May,Q2,5/9/2023,8/17/2023
+2886662,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,waiting on payment,,,12/24/2023,December,Q4,10/22/2023,10/22/2023
+2777908,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,9/22/2023,September,Q3,1/24/2023,6/30/2023
+2954784,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,7/29/2023,July,Q3,9/6/2023,12/1/2023
+2611203,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Automated Email issues,,,3/16/2023,March,Q1,10/27/2023,2/22/2023
+2601005,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,1/5/2023,January,Q1,9/29/2023,4/13/2023
+2673149,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,12/28/2023,December,Q4,7/2/2023,4/14/2023
+2500060,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,phone service,,,7/8/2023,July,Q3,4/3/2023,3/30/2023
+2743328,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Multiline issues,,,10/24/2023,October,Q4,5/28/2023,8/1/2023
+2870637,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,12/31/2023,December,Q4,3/23/2023,10/10/2023
+2786667,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,1/25/2023,January,Q1,7/8/2023,12/22/2023
+2816631,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Making/Accepting calls,,,1/10/2023,January,Q1,10/20/2023,9/6/2023
+2679426,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,11/23/2023,November,Q4,2/28/2023,1/3/2024
+2709094,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,1/7/2024,January,Q1,6/23/2023,6/6/2023
+2556915,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,10/4/2023,October,Q4,7/3/2023,8/10/2023
+2580089,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,3/11/2023,March,Q1,6/12/2023,12/21/2023
+2167208,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,3/27/2023,March,Q1,12/26/2023,11/12/2023
+2864058,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,6/1/2023,June,Q2,6/18/2023,1/25/2023
+2410670,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,waiting on payment,,,7/11/2023,July,Q3,5/14/2023,7/2/2023
+2189013,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App availability issues,,,5/23/2023,May,Q2,4/23/2023,6/26/2023
+2881185,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,12/16/2023,December,Q4,8/29/2023,5/21/2023
+2666223,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,5/2/2023,May,Q2,11/19/2023,9/27/2023
+2419320,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,9/19/2023,September,Q3,2/16/2023,9/16/2023
+2946354,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,11/8/2023,November,Q4,6/13/2023,6/7/2023
+2314537,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,6/5/2023,June,Q2,2/9/2023,2/10/2023
+2369411,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,phone service,,,8/22/2023,August,Q3,8/27/2023,3/15/2023
+2647552,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Invoice issues,,,4/20/2023,April,Q2,3/22/2023,4/20/2023
+2384606,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,In app/portal features not working,,,10/28/2023,October,Q4,8/21/2023,6/20/2023
+2052944,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App freezing,,,4/30/2023,April,Q2,2/25/2023,6/28/2023
+2443900,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,1/24/2023,January,Q1,11/8/2023,8/22/2023
+2522804,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,4/18/2023,April,Q2,6/21/2023,1/4/2023
+2770619,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,7/14/2023,July,Q3,3/7/2023,8/12/2023
+2229660,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,3/30/2023,March,Q1,10/23/2023,4/27/2023
+2658933,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,1/26/2023,January,Q1,2/6/2023,1/15/2023
+2533225,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,In app/portal features not working,,,1/26/2023,January,Q1,1/4/2023,9/26/2023
+2955685,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,1/9/2023,January,Q1,10/17/2023,5/27/2023
+2756167,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Voicemail Issues,,,1/24/2023,January,Q1,12/28/2023,11/21/2023
+2285004,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App availability issues,,,6/9/2023,June,Q2,1/12/2023,7/1/2023
+2692905,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,6/6/2023,June,Q2,5/12/2023,10/23/2023
+2127954,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App availability issues,,,6/16/2023,June,Q2,5/6/2023,8/5/2023
+2345705,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App availability issues,,,5/17/2023,May,Q2,6/27/2023,1/3/2023
+2608389,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,12/7/2023,December,Q4,11/29/2023,3/15/2023
+2425249,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,7/22/2023,July,Q3,6/19/2023,5/22/2023
+2226897,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,4/4/2023,April,Q2,1/28/2023,6/28/2023
+2906466,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,2/18/2023,February,Q1,6/24/2023,12/9/2023
+2128320,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Time Stamp issues,,,6/12/2023,June,Q2,10/24/2023,1/24/2023
+2861184,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,7/14/2023,July,Q3,1/1/2023,11/5/2023
+2337665,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,10/23/2023,October,Q4,9/9/2023,1/22/2023
+2020342,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,phone service,,,1/24/2023,January,Q1,3/17/2023,8/7/2023
+2181510,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,phone service,,,5/28/2023,May,Q2,12/18/2023,10/27/2023
+2952300,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,4/5/2023,April,Q2,7/31/2023,3/27/2023
+2479870,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,10/20/2023,October,Q4,6/24/2023,9/12/2023
+2327117,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,waiting on payment,,,1/17/2023,January,Q1,8/21/2023,9/25/2023
+2359192,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,5/24/2023,May,Q2,5/6/2023,11/12/2023
+2508952,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,1/28/2023,January,Q1,11/27/2023,4/17/2023
+2787728,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,9/28/2023,September,Q3,7/14/2023,1/25/2023
+2291425,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,4/9/2023,April,Q2,1/29/2023,5/30/2023
+2484384,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App availability issues,,,11/26/2023,November,Q4,2/2/2023,12/15/2023
+2691377,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,4/17/2023,April,Q2,7/20/2023,7/1/2023
+2181006,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Multiline issues,,,4/27/2023,April,Q2,9/7/2023,7/16/2023
+2944695,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,8/1/2023,August,Q3,3/1/2023,12/29/2023
+2192761,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,12/19/2023,December,Q4,11/24/2023,1/3/2024
+2190986,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,11/30/2023,November,Q4,6/2/2023,12/16/2023
+2903865,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,7/6/2023,July,Q3,12/19/2023,7/14/2023
+2537465,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,3/29/2023,March,Q1,2/5/2023,1/29/2023
+2540061,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App freezing,,,6/4/2023,June,Q2,6/17/2023,9/22/2023
+2280916,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Time Stamp issues,,,12/23/2023,December,Q4,7/15/2023,1/13/2023
+2171478,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Voicemail Issues,,,1/5/2023,January,Q1,12/11/2023,5/30/2023
+2990610,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,4/27/2023,April,Q2,2/12/2023,6/27/2023
+2969849,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,10/3/2023,October,Q4,1/25/2023,9/6/2023
+2177500,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Number port issues,,,9/17/2023,September,Q3,3/12/2023,5/13/2023
+2953545,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Voicemail Issues,,,6/5/2023,June,Q2,3/4/2023,5/4/2023
+2832074,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Time Stamp issues,,,4/9/2023,April,Q2,8/29/2023,12/10/2023
+2689884,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,2/14/2023,February,Q1,9/16/2023,2/5/2023
+2210948,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,5/22/2023,May,Q2,10/30/2023,8/5/2023
+2900613,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Automated Email issues,,,1/3/2024,January,Q1,2/16/2023,5/4/2023
+2294704,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Voicemail Issues,,,5/27/2023,May,Q2,1/25/2023,12/11/2023
+2973523,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Time Stamp issues,,,12/5/2023,December,Q4,3/31/2023,3/1/2023
+2893225,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Voicemail Issues,,,1/7/2024,January,Q1,4/26/2023,5/30/2023
+2992315,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,waiting on payment,,,2/9/2023,February,Q1,2/2/2023,12/8/2023
+2692378,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,5/11/2023,May,Q2,7/11/2023,9/25/2023
+2761615,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,3/21/2023,March,Q1,9/14/2023,2/2/2023
+2122491,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,1/29/2023,January,Q1,3/19/2023,10/10/2023
+2949555,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,2/2/2023,February,Q1,7/27/2023,7/21/2023
+2715769,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,11/1/2023,November,Q4,10/16/2023,8/8/2023
+2714440,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,12/8/2023,December,Q4,3/3/2023,3/19/2023
+2937220,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,waiting on payment,,,7/21/2023,July,Q3,3/3/2023,7/12/2023
+2596251,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,1/19/2023,January,Q1,9/29/2023,7/1/2023
+2889047,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App availability issues,,,2/8/2023,February,Q1,8/20/2023,9/5/2023
+2829567,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,3/21/2023,March,Q1,11/7/2023,1/4/2024
+2879831,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,3/5/2023,March,Q1,2/18/2023,3/20/2023
+2801371,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Multiline issues,,,2/11/2023,February,Q1,1/27/2023,11/19/2023
+2824103,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,2/28/2023,February,Q1,11/24/2023,1/7/2024
+2604094,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,4/5/2023,April,Q2,6/24/2023,3/15/2023
+2376465,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,9/30/2023,September,Q3,3/20/2023,9/4/2023
+2992263,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,App availability issues,,,6/12/2023,June,Q2,3/10/2023,5/2/2023
+2745615,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,1/21/2023,January,Q1,12/11/2023,6/14/2023
+2973958,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Multiline issues,,,9/13/2023,September,Q3,11/9/2023,10/19/2023
+2149995,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,8/31/2023,August,Q3,3/30/2023,3/21/2023
+2642916,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,7/12/2023,July,Q3,12/18/2023,11/2/2023
+2190463,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Multiline issues,,,3/28/2023,March,Q1,8/23/2023,4/8/2023
+2064048,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,6/3/2023,June,Q2,7/2/2023,11/29/2023
+2187730,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,2/2/2023,February,Q1,8/12/2023,11/20/2023
+2447428,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,phone service,,,7/12/2023,July,Q3,4/15/2023,1/22/2023
+2424215,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,10/31/2023,October,Q4,9/11/2023,11/22/2023
+2559869,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Multiline issues,,,1/16/2023,January,Q1,5/29/2023,9/1/2023
+2034293,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,In app/portal features not working,,,8/11/2023,August,Q3,6/20/2023,1/22/2023
+2511836,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,3/19/2023,March,Q1,6/10/2023,8/22/2023
+2359722,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Automated Email issues,,,12/29/2023,December,Q4,12/29/2023,8/11/2023
+2549970,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Time Stamp issues,,,1/27/2023,January,Q1,6/26/2023,12/10/2023
+2949799,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,3/12/2023,March,Q1,6/15/2023,2/6/2023
+2172522,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,6/8/2023,June,Q2,12/26/2023,8/15/2023
+2763994,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,11/20/2023,November,Q4,9/11/2023,1/21/2023
+2544052,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,8/9/2023,August,Q3,10/31/2023,1/22/2023
+2290694,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,4/5/2023,April,Q2,12/5/2023,7/22/2023
+2619759,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App freezing,,,7/14/2023,July,Q3,6/21/2023,12/19/2023
+2969789,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,4/2/2023,April,Q2,6/26/2023,4/3/2023
+2147640,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,6/14/2023,June,Q2,12/16/2023,9/22/2023
+2584243,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,7/14/2023,July,Q3,2/19/2023,12/30/2023
+2459362,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,8/12/2023,August,Q3,7/24/2023,1/12/2023
+2036109,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Multiline issues,,,5/17/2023,May,Q2,9/3/2023,9/23/2023
+2722545,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,7/18/2023,July,Q3,1/27/2023,7/29/2023
+2499610,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,3/21/2023,March,Q1,5/7/2023,9/9/2023
+2080078,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,8/12/2023,August,Q3,9/9/2023,11/11/2023
+2161839,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,1/21/2023,January,Q1,7/19/2023,1/11/2023
+2847896,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,10/26/2023,October,Q4,3/8/2023,4/12/2023
+2007453,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,4/14/2023,April,Q2,5/24/2023,9/24/2023
+2538232,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,4/10/2023,April,Q2,1/6/2023,4/19/2023
+2707628,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Making/Accepting calls,,,9/10/2023,September,Q3,9/24/2023,12/30/2023
+2760065,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,7/30/2023,July,Q3,3/11/2023,6/8/2023
+2974657,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Automated Email issues,,,8/26/2023,August,Q3,2/13/2023,6/22/2023
+2613557,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,6/13/2023,June,Q2,8/22/2023,1/6/2024
+2255296,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,4/1/2023,April,Q2,4/4/2023,6/20/2023
+2846311,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,12/22/2023,December,Q4,2/26/2023,2/12/2023
+2161278,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,12/10/2023,December,Q4,8/15/2023,4/24/2023
+2560837,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,5/13/2023,May,Q2,1/2/2024,7/25/2023
+2150200,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,4/28/2023,April,Q2,4/17/2023,8/8/2023
+2446182,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,9/24/2023,September,Q3,1/4/2023,12/30/2023
+2732152,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Time Stamp issues,,,7/25/2023,July,Q3,8/12/2023,9/1/2023
+2253276,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,7/2/2023,July,Q3,5/3/2023,6/30/2023
+2541404,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,1/7/2023,January,Q1,1/3/2024,1/10/2023
+2643265,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Number port issues,,,10/17/2023,October,Q4,7/24/2023,7/26/2023
+2258018,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,10/21/2023,October,Q4,8/30/2023,2/18/2023
+2797561,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,6/18/2023,June,Q2,8/28/2023,9/28/2023
+2171471,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,5/7/2023,May,Q2,11/5/2023,8/13/2023
+2439126,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Automated Email issues,,,6/21/2023,June,Q2,9/18/2023,4/7/2023
+2345048,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,10/13/2023,October,Q4,7/3/2023,12/19/2023
+2590583,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Automated Email issues,,,11/26/2023,November,Q4,6/11/2023,12/13/2023
+2066087,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App availability issues,,,9/5/2023,September,Q3,2/26/2023,4/17/2023
+2739891,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Voicemail Issues,,,2/3/2023,February,Q1,9/23/2023,7/28/2023
+2399636,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Number port issues,,,1/21/2023,January,Q1,3/9/2023,3/28/2023
+2955159,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,In app/portal features not working,,,9/14/2023,September,Q3,7/8/2023,2/13/2023
+2098523,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Multiline issues,,,4/25/2023,April,Q2,11/26/2023,11/27/2023
+2432006,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Time Stamp issues,,,6/8/2023,June,Q2,12/13/2023,5/1/2023
+2086246,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,10/4/2023,October,Q4,3/12/2023,2/7/2023
+2608285,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,9/29/2023,September,Q3,12/23/2023,5/6/2023
+2870692,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,waiting on payment,,,5/14/2023,May,Q2,9/5/2023,8/4/2023
+2542263,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,3/23/2023,March,Q1,12/11/2023,6/6/2023
+2370893,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App freezing,,,6/11/2023,June,Q2,4/19/2023,3/28/2023
+2575828,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,4/26/2023,April,Q2,2/19/2023,4/10/2023
+2481352,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Time Stamp issues,,,6/23/2023,June,Q2,1/8/2023,4/20/2023
+2748327,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Time Stamp issues,,,3/9/2023,March,Q1,6/18/2023,2/21/2023
+2414165,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Invoice issues,,,1/27/2023,January,Q1,5/23/2023,3/9/2023
+2179360,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,waiting on payment,,,9/22/2023,September,Q3,11/1/2023,9/24/2023
+2319040,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,1/1/2024,January,Q1,8/21/2023,5/21/2023
+2144889,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,waiting on payment,,,12/25/2023,December,Q4,7/3/2023,8/7/2023
+2695667,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Voicemail Issues,,,12/7/2023,December,Q4,1/28/2023,4/9/2023
+2917119,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Multiline issues,,,9/18/2023,September,Q3,9/16/2023,2/9/2023
+2190912,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App availability issues,,,2/16/2023,February,Q1,1/15/2023,6/18/2023
+2570838,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Invoice issues,,,5/5/2023,May,Q2,9/25/2023,2/9/2023
+2211035,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Number port issues,,,12/10/2023,December,Q4,8/11/2023,6/29/2023
+2367698,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,In app/portal features not working,,,11/2/2023,November,Q4,8/16/2023,4/14/2023
+2053759,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,10/14/2023,October,Q4,11/2/2023,8/27/2023
+2213736,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Making/Accepting calls,,,1/1/2023,January,Q1,7/18/2023,1/1/2023
+2848456,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,2/12/2023,February,Q1,1/28/2023,11/15/2023
+2243744,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,9/27/2023,September,Q3,9/19/2023,5/25/2023
+2871413,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,10/4/2023,October,Q4,5/19/2023,12/19/2023
+2000499,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,5/17/2023,May,Q2,4/5/2023,3/7/2023
+2038097,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,6/26/2023,June,Q2,4/4/2023,11/4/2023
+2299813,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App availability issues,,,2/12/2023,February,Q1,6/23/2023,10/6/2023
+2223953,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,2/1/2023,February,Q1,6/30/2023,8/25/2023
+2434582,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,3/9/2023,March,Q1,10/15/2023,12/23/2023
+2261890,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Time Stamp issues,,,4/23/2023,April,Q2,9/22/2023,11/9/2023
+2629096,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,waiting on payment,,,8/15/2023,August,Q3,8/29/2023,9/29/2023
+2977851,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Number port issues,,,6/7/2023,June,Q2,12/20/2023,1/22/2023
+2404530,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,phone service,,,5/13/2023,May,Q2,1/13/2023,6/20/2023
+2687227,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Multiline issues,,,5/27/2023,May,Q2,12/23/2023,7/29/2023
+2823878,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,11/25/2023,November,Q4,7/29/2023,2/13/2023
+2061470,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,5/18/2023,May,Q2,4/20/2023,2/18/2023
+2801574,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App availability issues,,,2/15/2023,February,Q1,2/22/2023,7/21/2023
+2163843,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,10/10/2023,October,Q4,12/12/2023,11/20/2023
+2153846,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Automated Email issues,,,5/7/2023,May,Q2,3/3/2023,8/13/2023
+2263206,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Invoice issues,,,8/3/2023,August,Q3,11/19/2023,1/17/2023
+2944631,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,1/9/2023,January,Q1,12/31/2023,9/22/2023
+2710330,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,1/9/2023,January,Q1,2/27/2023,11/28/2023
+2822558,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Number port issues,,,1/28/2023,January,Q1,8/23/2023,2/1/2023
+2716607,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,1/27/2023,January,Q1,3/9/2023,5/25/2023
+2344739,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,waiting on payment,,,5/15/2023,May,Q2,9/16/2023,8/4/2023
+2299479,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,2/3/2023,February,Q1,6/23/2023,4/14/2023
+2388419,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Invoice issues,,,4/26/2023,April,Q2,8/30/2023,3/13/2023
+2779280,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,4/16/2023,April,Q2,5/12/2023,10/26/2023
+2516080,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Automated Email issues,,,7/12/2023,July,Q3,11/3/2023,7/30/2023
+2296128,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,11/16/2023,November,Q4,6/16/2023,3/10/2023
+2372555,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,waiting on payment,,,1/6/2024,January,Q1,8/28/2023,7/4/2023
+2512054,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App availability issues,,,12/14/2023,December,Q4,3/23/2023,2/28/2023
+2967614,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,7/17/2023,July,Q3,1/7/2024,9/17/2023
+2609433,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,12/23/2023,December,Q4,8/26/2023,10/31/2023
+2110957,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,7/30/2023,July,Q3,10/15/2023,7/25/2023
+2798916,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App availability issues,,,8/23/2023,August,Q3,12/19/2023,3/21/2023
+2078046,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,6/26/2023,June,Q2,9/23/2023,4/13/2023
+2497431,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Invoice issues,,,11/22/2023,November,Q4,2/22/2023,10/5/2023
+2094634,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Invoice issues,,,1/24/2023,January,Q1,5/23/2023,11/22/2023
+2993968,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,3/17/2023,March,Q1,12/12/2023,10/31/2023
+2229770,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Time Stamp issues,,,9/24/2023,September,Q3,7/20/2023,12/7/2023
+2089982,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App availability issues,,,7/8/2023,July,Q3,1/17/2023,1/21/2023
+2347724,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,7/1/2023,July,Q3,7/15/2023,3/25/2023
+2512020,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,In app/portal features not working,,,3/28/2023,March,Q1,11/13/2023,2/27/2023
+2356463,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,1/2/2023,January,Q1,11/7/2023,2/2/2023
+2302374,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,11/3/2023,November,Q4,9/22/2023,8/3/2023
+2704981,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,4/15/2023,April,Q2,11/17/2023,7/22/2023
+2590173,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,3/22/2023,March,Q1,11/1/2023,8/10/2023
+2918984,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,phone service,,,6/24/2023,June,Q2,9/12/2023,1/24/2023
+2500495,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,11/11/2023,November,Q4,2/28/2023,3/22/2023
+2956910,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Time Stamp issues,,,8/6/2023,August,Q3,1/31/2023,8/17/2023
+2815762,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,10/5/2023,October,Q4,10/12/2023,5/26/2023
+2516490,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,7/18/2023,July,Q3,8/8/2023,2/23/2023
+2490304,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App freezing,,,8/4/2023,August,Q3,1/3/2023,8/11/2023
+2050727,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,3/11/2023,March,Q1,6/18/2023,10/4/2023
+2181403,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,5/20/2023,May,Q2,11/4/2023,5/3/2023
+2159106,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,App freezing,,,7/11/2023,July,Q3,7/5/2023,5/28/2023
+2499331,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,9/13/2023,September,Q3,1/24/2023,3/27/2023
+2737589,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,6/27/2023,June,Q2,4/16/2023,5/17/2023
+2342713,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App freezing,,,4/8/2023,April,Q2,8/3/2023,2/26/2023
+2616707,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Automated Email issues,,,2/4/2023,February,Q1,6/20/2023,9/4/2023
+2865924,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,7/1/2023,July,Q3,6/29/2023,8/13/2023
+2348965,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,11/11/2023,November,Q4,2/28/2023,6/25/2023
+2320916,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,9/12/2023,September,Q3,1/7/2024,5/1/2023
+2908596,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,waiting on payment,,,9/19/2023,September,Q3,10/5/2023,3/29/2023
+2906229,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Number port issues,,,1/13/2023,January,Q1,4/9/2023,1/23/2023
+2732651,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,4/2/2023,April,Q2,9/29/2023,1/31/2023
+2637887,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Voicemail Issues,,,10/22/2023,October,Q4,7/13/2023,7/9/2023
+2665040,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,4/9/2023,April,Q2,6/26/2023,10/9/2023
+2764586,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,9/3/2023,September,Q3,4/14/2023,12/12/2023
+2251973,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,App availability issues,,,9/17/2023,September,Q3,5/27/2023,8/5/2023
+2958192,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App availability issues,,,12/9/2023,December,Q4,11/8/2023,11/16/2023
+2497824,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,10/15/2023,October,Q4,2/27/2023,4/23/2023
+2838023,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App availability issues,,,5/17/2023,May,Q2,8/25/2023,10/11/2023
+2201377,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Invoice issues,,,1/10/2023,January,Q1,5/22/2023,10/25/2023
+2967923,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,3/30/2023,March,Q1,9/16/2023,5/27/2023
+2389331,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,4/4/2023,April,Q2,3/5/2023,4/18/2023
+2570574,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,7/1/2023,July,Q3,2/5/2023,10/4/2023
+2215421,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Number port issues,,,8/9/2023,August,Q3,4/7/2023,11/28/2023
+2111801,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,5/3/2023,May,Q2,10/24/2023,3/11/2023
+2725306,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,4/8/2023,April,Q2,7/23/2023,3/22/2023
+2371942,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Multiline issues,,,7/24/2023,July,Q3,5/26/2023,3/11/2023
+2423918,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,10/15/2023,October,Q4,12/17/2023,5/5/2023
+2875958,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Time Stamp issues,,,11/8/2023,November,Q4,4/10/2023,12/11/2023
+2607103,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Voicemail Issues,,,2/4/2023,February,Q1,10/22/2023,5/29/2023
+2858694,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,12/23/2023,December,Q4,6/16/2023,11/10/2023
+2673118,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,4/20/2023,April,Q2,9/8/2023,11/16/2023
+2659760,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,4/11/2023,April,Q2,6/25/2023,4/5/2023
+2599096,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,10/14/2023,October,Q4,6/29/2023,12/29/2023
+2059051,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,3/31/2023,March,Q1,5/10/2023,9/29/2023
+2160402,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,10/17/2023,October,Q4,7/17/2023,11/7/2023
+2470521,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,In app/portal features not working,,,7/19/2023,July,Q3,7/21/2023,3/27/2023
+2265181,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Invoice issues,,,9/24/2023,September,Q3,7/16/2023,6/11/2023
+2277828,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,1/4/2023,January,Q1,2/17/2023,12/30/2023
+2304862,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Automated Email issues,,,8/2/2023,August,Q3,4/11/2023,3/11/2023
+2627854,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,8/8/2023,August,Q3,7/8/2023,5/26/2023
+2138830,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,5/11/2023,May,Q2,9/6/2023,8/31/2023
+2073422,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Time Stamp issues,,,5/10/2023,May,Q2,5/24/2023,5/18/2023
+2201780,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,5/10/2023,May,Q2,5/6/2023,4/24/2023
+2876949,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Invoice issues,,,12/21/2023,December,Q4,9/30/2023,9/9/2023
+2197927,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Multiline issues,,,8/3/2023,August,Q3,8/1/2023,10/11/2023
+2531218,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,8/17/2023,August,Q3,8/12/2023,7/16/2023
+2464034,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,11/10/2023,November,Q4,8/3/2023,1/25/2023
+2099184,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,11/20/2023,November,Q4,5/10/2023,5/14/2023
+2837357,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Making/Accepting calls,,,2/27/2023,February,Q1,8/9/2023,7/24/2023
+2893622,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,12/25/2023,December,Q4,9/5/2023,8/12/2023
+2714924,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,8/6/2023,August,Q3,8/4/2023,9/20/2023
+2978150,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Voicemail Issues,,,12/14/2023,December,Q4,12/27/2023,4/25/2023
+2796557,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App freezing,,,4/24/2023,April,Q2,6/19/2023,1/16/2023
+2133415,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Automated Email issues,,,8/17/2023,August,Q3,9/5/2023,7/3/2023
+2074752,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,9/2/2023,September,Q3,9/16/2023,4/26/2023
+2254569,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,3/23/2023,March,Q1,3/2/2023,10/20/2023
+2698767,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App availability issues,,,7/31/2023,July,Q3,8/23/2023,1/20/2023
+2970433,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App freezing,,,10/21/2023,October,Q4,4/15/2023,4/8/2023
+2926375,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Automated Email issues,,,3/24/2023,March,Q1,11/1/2023,12/26/2023
+2547199,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,waiting on payment,,,8/15/2023,August,Q3,4/2/2023,10/11/2023
+2695423,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Time Stamp issues,,,2/5/2023,February,Q1,6/24/2023,9/11/2023
+2935013,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,1/7/2024,January,Q1,2/21/2023,4/24/2023
+2988930,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,3/8/2023,March,Q1,1/9/2023,12/7/2023
+2760401,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,10/2/2023,October,Q4,5/30/2023,3/21/2023
+2104000,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,8/19/2023,August,Q3,11/20/2023,1/7/2023
+2052771,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Number port issues,,,5/30/2023,May,Q2,5/24/2023,9/15/2023
+2542656,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,8/20/2023,August,Q3,9/9/2023,4/30/2023
+2673699,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Time Stamp issues,,,11/28/2023,November,Q4,11/3/2023,4/6/2023
+2736159,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Voicemail Issues,,,9/21/2023,September,Q3,1/28/2023,9/7/2023
+2995910,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,10/7/2023,October,Q4,5/28/2023,11/14/2023
+2836837,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Automated Email issues,,,1/16/2023,January,Q1,6/2/2023,7/29/2023
+2344124,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,8/19/2023,August,Q3,10/27/2023,5/30/2023
+2221691,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,1/5/2024,January,Q1,8/19/2023,3/15/2023
+2965632,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,phone service,,,1/26/2023,January,Q1,1/14/2023,4/17/2023
+2678669,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,4/6/2023,April,Q2,3/13/2023,12/5/2023
+2188322,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,1/13/2023,January,Q1,9/15/2023,2/6/2023
+2324465,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Automated Email issues,,,1/14/2023,January,Q1,2/4/2023,11/25/2023
+2359089,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Number port issues,,,6/6/2023,June,Q2,3/11/2023,4/12/2023
+2871603,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,10/14/2023,October,Q4,6/19/2023,2/9/2023
+2268246,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,6/10/2023,June,Q2,10/31/2023,8/20/2023
+2754720,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,11/15/2023,November,Q4,3/30/2023,12/11/2023
+2703898,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,In app/portal features not working,,,8/17/2023,August,Q3,10/31/2023,3/5/2023
+2571342,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,12/13/2023,December,Q4,1/5/2024,10/18/2023
+2642438,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,12/8/2023,December,Q4,6/25/2023,6/3/2023
+2315985,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,2/1/2023,February,Q1,3/4/2023,7/16/2023
+2891353,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,3/15/2023,March,Q1,4/1/2023,8/25/2023
+2229409,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,7/3/2023,July,Q3,5/31/2023,1/1/2023
+2691182,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,6/30/2023,June,Q2,8/14/2023,1/4/2023
+2090826,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,9/3/2023,September,Q3,1/1/2024,6/24/2023
+2372175,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,In app/portal features not working,,,4/22/2023,April,Q2,8/3/2023,6/7/2023
+2328816,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Invoice issues,,,5/15/2023,May,Q2,5/25/2023,12/31/2023
+2680506,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App freezing,,,8/23/2023,August,Q3,11/22/2023,1/4/2024
+2151052,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,5/22/2023,May,Q2,9/19/2023,1/2/2023
+2268215,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Time Stamp issues,,,12/8/2023,December,Q4,11/28/2023,2/15/2023
+2792255,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App freezing,,,8/23/2023,August,Q3,2/28/2023,11/25/2023
+2570371,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,10/29/2023,October,Q4,1/21/2023,6/18/2023
+2340314,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Time Stamp issues,,,3/1/2023,March,Q1,6/2/2023,8/28/2023
+2811663,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App freezing,,,8/24/2023,August,Q3,10/1/2023,1/9/2023
+2836257,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,phone service,,,4/17/2023,April,Q2,7/1/2023,2/14/2023
+2197683,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App freezing,,,11/14/2023,November,Q4,8/6/2023,2/3/2023
+2301557,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,11/30/2023,November,Q4,7/12/2023,6/21/2023
+2787704,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,waiting on payment,,,4/16/2023,April,Q2,11/27/2023,12/12/2023
+2372942,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Number port issues,,,12/11/2023,December,Q4,1/7/2024,12/25/2023
+2064703,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Number port issues,,,2/26/2023,February,Q1,8/27/2023,5/11/2023
+2848788,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,In app/portal features not working,,,7/10/2023,July,Q3,2/15/2023,5/27/2023
+2887295,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,waiting on payment,,,8/11/2023,August,Q3,3/21/2023,4/9/2023
+2014199,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Time Stamp issues,,,4/23/2023,April,Q2,4/19/2023,5/8/2023
+2156710,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,3/3/2023,March,Q1,12/27/2023,2/3/2023
+2992876,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,1/7/2024,January,Q1,2/13/2023,1/5/2023
+2163260,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,waiting on payment,,,2/16/2023,February,Q1,9/18/2023,1/24/2023
+2385186,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Time Stamp issues,,,2/21/2023,February,Q1,12/4/2023,4/8/2023
+2987353,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,6/6/2023,June,Q2,1/13/2023,11/5/2023
+2112049,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Automated Email issues,,,9/8/2023,September,Q3,10/6/2023,2/12/2023
+2551960,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,11/17/2023,November,Q4,10/26/2023,11/21/2023
+2978615,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,phone service,,,11/20/2023,November,Q4,4/9/2023,11/26/2023
+2739040,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,In app/portal features not working,,,1/15/2023,January,Q1,5/2/2023,1/16/2023
+2189333,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,12/27/2023,December,Q4,6/26/2023,7/19/2023
+2777754,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,phone service,,,11/22/2023,November,Q4,7/3/2023,9/28/2023
+2381326,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Automated Email issues,,,7/11/2023,July,Q3,10/3/2023,12/21/2023
+2364014,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,5/19/2023,May,Q2,1/8/2023,5/22/2023
+2987818,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Number port issues,,,4/7/2023,April,Q2,1/10/2023,6/9/2023
+2295961,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Making/Accepting calls,,,8/7/2023,August,Q3,6/10/2023,8/2/2023
+2643169,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,7/13/2023,July,Q3,5/28/2023,3/24/2023
+2718695,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Automated Email issues,,,3/8/2023,March,Q1,8/19/2023,8/5/2023
+2217400,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,4/4/2023,April,Q2,12/20/2023,8/8/2023
+2601371,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,7/18/2023,July,Q3,4/12/2023,1/20/2023
+2256532,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,5/20/2023,May,Q2,11/10/2023,4/16/2023
+2653803,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,1/23/2023,January,Q1,1/30/2023,8/9/2023
+2153152,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,4/22/2023,April,Q2,4/25/2023,4/16/2023
+2667347,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,In app/portal features not working,,,1/26/2023,January,Q1,1/16/2023,8/11/2023
+2154185,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Automated Email issues,,,4/30/2023,April,Q2,8/15/2023,11/1/2023
+2188162,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,2/17/2023,February,Q1,12/8/2023,6/19/2023
+2709066,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,phone service,,,8/8/2023,August,Q3,5/20/2023,5/30/2023
+2314110,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,12/7/2023,December,Q4,9/21/2023,11/21/2023
+2997950,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,3/10/2023,March,Q1,1/4/2024,9/5/2023
+2726475,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Number port issues,,,1/18/2023,January,Q1,10/16/2023,2/7/2023
+2099265,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,App availability issues,,,7/11/2023,July,Q3,3/17/2023,11/12/2023
+2017345,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,6/20/2023,June,Q2,1/9/2023,8/13/2023
+2786317,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,4/29/2023,April,Q2,6/29/2023,8/18/2023
+2617168,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Voicemail Issues,,,10/13/2023,October,Q4,10/26/2023,10/12/2023
+2764616,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,4/23/2023,April,Q2,12/7/2023,7/3/2023
+2183997,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,9/22/2023,September,Q3,5/27/2023,7/6/2023
+2720487,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,2/18/2023,February,Q1,6/12/2023,7/15/2023
+2783621,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,App freezing,,,12/2/2023,December,Q4,11/30/2023,7/21/2023
+2036081,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,phone service,,,10/25/2023,October,Q4,2/1/2023,2/25/2023
+2404570,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Number port issues,,,10/16/2023,October,Q4,3/1/2023,2/21/2023
+2339938,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Multiline issues,,,5/10/2023,May,Q2,4/17/2023,6/11/2023
+2091987,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Time Stamp issues,,,9/20/2023,September,Q3,1/5/2023,2/1/2023
+2443179,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,waiting on payment,,,7/11/2023,July,Q3,1/14/2023,5/8/2023
+2932009,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App freezing,,,10/20/2023,October,Q4,4/20/2023,8/22/2023
+2870233,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,10/15/2023,October,Q4,8/21/2023,2/11/2023
+2058747,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,9/21/2023,September,Q3,1/3/2023,5/15/2023
+2259577,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,In app/portal features not working,,,5/22/2023,May,Q2,9/7/2023,8/14/2023
+2564482,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Number port issues,,,2/19/2023,February,Q1,12/5/2023,11/16/2023
+2310633,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Automated Email issues,,,7/7/2023,July,Q3,3/20/2023,3/3/2023
+2707536,,new,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,12/22/2023,December,Q4,7/18/2023,9/16/2023
+2357999,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Number port issues,,,4/26/2023,April,Q2,1/21/2023,7/17/2023
+2595813,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,waiting on payment,,,1/20/2023,January,Q1,6/9/2023,2/10/2023
+2571279,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,10/13/2023,October,Q4,4/28/2023,7/9/2023
+2552479,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App availability issues,,,3/1/2023,March,Q1,7/18/2023,4/6/2023
+2298763,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,7/1/2023,July,Q3,8/4/2023,12/17/2023
+2673275,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,9/7/2023,September,Q3,9/1/2023,9/26/2023
+2675615,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,9/16/2023,September,Q3,6/16/2023,7/3/2023
+2580614,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Voicemail Issues,,,4/23/2023,April,Q2,5/17/2023,9/26/2023
+2392784,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,5/14/2023,May,Q2,11/9/2023,6/24/2023
+2602576,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,10/19/2023,October,Q4,2/2/2023,1/2/2023
+2452335,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,6/7/2023,June,Q2,5/18/2023,8/29/2023
+2349794,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App availability issues,,,6/4/2023,June,Q2,1/3/2024,1/4/2023
+2405107,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,phone service,,,6/13/2023,June,Q2,2/18/2023,9/9/2023
+2085458,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,3/15/2023,March,Q1,5/19/2023,1/22/2023
+2921963,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,phone service,,,6/10/2023,June,Q2,12/9/2023,2/14/2023
+2490004,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,3/31/2023,March,Q1,4/18/2023,5/27/2023
+2742206,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Number port issues,,,7/17/2023,July,Q3,9/8/2023,4/6/2023
+2934550,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,8/1/2023,August,Q3,11/1/2023,12/9/2023
+2536998,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Number port issues,,,1/14/2023,January,Q1,9/10/2023,4/12/2023
+2228303,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Issues loading text/call logs/voicemails,,,7/23/2023,July,Q3,12/5/2023,8/17/2023
+2860956,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,6/30/2023,June,Q2,1/21/2023,4/10/2023
+2646222,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,3/27/2023,March,Q1,5/7/2023,1/11/2023
+2415363,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Multiline issues,,,1/2/2023,January,Q1,2/17/2023,7/7/2023
+2202347,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,12/15/2023,December,Q4,11/28/2023,6/29/2023
+2621273,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,In app/portal features not working,,,6/13/2023,June,Q2,3/29/2023,9/29/2023
+2559495,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,5/31/2023,May,Q2,3/18/2023,12/24/2023
+2888456,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Invoice issues,,,12/27/2023,December,Q4,6/27/2023,10/4/2023
+2795742,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,App freezing,,,7/7/2023,July,Q3,4/27/2023,4/24/2023
+2713348,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,9/8/2023,September,Q3,8/12/2023,3/3/2023
+2088969,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Multiline issues,,,9/26/2023,September,Q3,5/12/2023,1/17/2023
+2338621,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,7/23/2023,July,Q3,10/24/2023,9/27/2023
+2196664,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Number port issues,,,10/30/2023,October,Q4,2/28/2023,2/16/2023
+2069955,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App availability issues,,,7/23/2023,July,Q3,3/30/2023,6/21/2023
+2030050,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,phone service,,,12/13/2023,December,Q4,5/15/2023,8/13/2023
+2429485,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,7/9/2023,July,Q3,5/9/2023,6/25/2023
+2023820,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Voicemail Issues,,,2/13/2023,February,Q1,9/23/2023,11/2/2023
+2491520,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Time Stamp issues,,,10/17/2023,October,Q4,8/20/2023,5/3/2023
+2088092,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Number port issues,,,2/26/2023,February,Q1,8/16/2023,11/18/2023
+2598358,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,10/23/2023,October,Q4,12/30/2023,7/17/2023
+2176333,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Invoice issues,,,5/10/2023,May,Q2,1/1/2024,6/17/2023
+2497691,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Voicemail Issues,,,4/3/2023,April,Q2,7/16/2023,12/23/2023
+2080612,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Invoice issues,,,2/9/2023,February,Q1,9/11/2023,8/3/2023
+2434660,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,3/10/2023,March,Q1,10/3/2023,6/1/2023
+2797598,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Time Stamp issues,,,5/20/2023,May,Q2,6/9/2023,11/9/2023
+2192770,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,4/18/2023,April,Q2,8/11/2023,1/3/2023
+2882283,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Time Stamp issues,,,1/4/2024,January,Q1,5/20/2023,1/23/2023
+2454471,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,1/2/2024,January,Q1,2/6/2023,9/4/2023
+2411760,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,2/14/2023,February,Q1,1/4/2024,8/21/2023
+2999152,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Voicemail Issues,,,10/9/2023,October,Q4,4/30/2023,5/6/2023
+2933385,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Invoice issues,,,7/21/2023,July,Q3,9/24/2023,1/7/2024
+2896549,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,phone service,,,5/11/2023,May,Q2,2/14/2023,10/26/2023
+2861274,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,9/23/2023,September,Q3,1/3/2024,8/22/2023
+2548885,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Making/Accepting calls,,,4/25/2023,April,Q2,6/15/2023,8/1/2023
+2212149,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,5/31/2023,May,Q2,7/21/2023,3/7/2023
+2974254,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Multiline issues,,,2/27/2023,February,Q1,1/15/2023,11/15/2023
+2124110,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Making/Accepting calls,,,4/1/2023,April,Q2,1/5/2024,7/22/2023
+2019721,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,In app/portal features not working,,,6/3/2023,June,Q2,6/8/2023,3/26/2023
+2912565,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,App freezing,,,10/28/2023,October,Q4,5/20/2023,1/11/2023
+2461675,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App freezing,,,4/9/2023,April,Q2,2/24/2023,2/18/2023
+2227578,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,App availability issues,,,7/28/2023,July,Q3,3/7/2023,12/6/2023
+2655653,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Invoice issues,,,6/13/2023,June,Q2,12/22/2023,8/11/2023
+2104751,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,1/16/2023,January,Q1,6/15/2023,10/14/2023
+2522981,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,11/28/2023,November,Q4,2/25/2023,4/3/2023
+2423194,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,3/17/2023,March,Q1,6/8/2023,11/7/2023
+2842010,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,10/13/2023,October,Q4,5/11/2023,6/26/2023
+2385864,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Invoice issues,,,8/26/2023,August,Q3,9/2/2023,6/4/2023
+2295013,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Number port issues,,,10/2/2023,October,Q4,1/17/2023,5/2/2023
+2636901,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,10/31/2023,October,Q4,3/16/2023,10/10/2023
+2950940,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Number port issues,,,8/17/2023,August,Q3,3/16/2023,10/22/2023
+2791493,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,In app/portal features not working,,,12/27/2023,December,Q4,6/19/2023,7/2/2023
+2934777,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Voicemail Issues,,,7/2/2023,July,Q3,2/24/2023,12/1/2023
+2430182,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Time Stamp issues,,,1/30/2023,January,Q1,2/19/2023,9/25/2023
+2422479,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,12/16/2023,December,Q4,10/18/2023,8/10/2023
+2980509,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,VO and PS not linked correctly,,,4/20/2023,April,Q2,8/12/2023,1/16/2023
+2088773,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,phone service,,,5/19/2023,May,Q2,7/11/2023,12/13/2023
+2344483,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,3/27/2023,March,Q1,9/1/2023,11/14/2023
+2234792,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Multiline issues,,,9/26/2023,September,Q3,12/11/2023,3/2/2023
+2380722,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App freezing,,,4/6/2023,April,Q2,3/22/2023,7/15/2023
+2625020,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,4/23/2023,April,Q2,4/17/2023,2/11/2023
+2040919,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Automated Email issues,,,5/16/2023,May,Q2,4/21/2023,4/19/2023
+2314558,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,waiting on payment,,,3/12/2023,March,Q1,6/16/2023,3/11/2023
+2075917,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,10/12/2023,October,Q4,4/26/2023,8/21/2023
+2677145,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,3/21/2023,March,Q1,6/8/2023,4/26/2023
+2877957,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,11/29/2023,November,Q4,12/6/2023,12/28/2023
+2059250,,closed,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,12/6/2023,December,Q4,9/19/2023,6/7/2023
+2592211,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,In app/portal features not working,,,9/12/2023,September,Q3,9/5/2023,3/3/2023
+2185189,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Multiline issues,,,3/1/2023,March,Q1,3/29/2023,12/21/2023
+2565927,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Remove phone number from # pool,,,9/5/2023,September,Q3,6/16/2023,1/7/2023
+2711008,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,11/3/2023,November,Q4,11/24/2023,4/2/2023
+2456979,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Number port issues,,,7/10/2023,July,Q3,1/7/2024,1/21/2023
+2158914,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Multiline issues,,,9/26/2023,September,Q3,1/3/2023,7/31/2023
+2684198,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Making/Accepting calls,,,10/8/2023,October,Q4,10/25/2023,12/13/2023
+2813605,,closed,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Time Stamp issues,,,5/17/2023,May,Q2,4/1/2023,4/18/2023
+2516153,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,8/8/2023,August,Q3,11/28/2023,12/24/2023
+2240059,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,2/2/2023,February,Q1,7/13/2023,8/8/2023
+2855250,,closed,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,12/29/2023,December,Q4,11/10/2023,6/14/2023
+2777997,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Voicemail Issues,,,7/18/2023,July,Q3,2/17/2023,1/25/2023
+2252196,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Automated Email issues,,,1/27/2023,January,Q1,7/29/2023,7/18/2023
+2538245,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Number port issues,,,12/23/2023,December,Q4,12/25/2023,9/10/2023
+2291047,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Automated Email issues,,,3/24/2023,March,Q1,2/27/2023,4/14/2023
+2999396,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,9/29/2023,September,Q3,6/25/2023,11/22/2023
+2535749,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App freezing,,,1/8/2023,January,Q1,10/11/2023,10/20/2023
+2515634,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,9/2/2023,September,Q3,8/14/2023,7/8/2023
+2101029,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,App availability issues,,,1/19/2023,January,Q1,3/26/2023,4/3/2023
+2462869,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,waiting on payment,,,3/2/2023,March,Q1,12/18/2023,12/19/2023
+2578234,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,8/4/2023,August,Q3,12/1/2023,6/10/2023
+2066317,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,waiting on payment,,,7/5/2023,July,Q3,2/20/2023,8/13/2023
+2319376,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,waiting on payment,,,9/21/2023,September,Q3,10/14/2023,1/7/2023
+2909008,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,App availability issues,,,5/17/2023,May,Q2,8/17/2023,8/27/2023
+2360742,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,phone service,,,11/15/2023,November,Q4,8/15/2023,5/10/2023
+2562948,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Voicemail Issues,,,8/24/2023,August,Q3,12/30/2023,12/17/2023
+2257169,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Stuck in Waiting on Payment status,,,10/4/2023,October,Q4,10/14/2023,1/5/2024
+2546901,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Invoice issues,,,1/26/2023,January,Q1,1/26/2023,8/11/2023
+2211799,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Issues loading text/call logs/voicemails,,,9/24/2023,September,Q3,2/4/2023,2/4/2023
+2963367,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,6/25/2023,June,Q2,9/28/2023,9/20/2023
+2501449,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,6/19/2023,June,Q2,9/17/2023,9/12/2023
+2763472,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,4/24/2023,April,Q2,11/29/2023,4/23/2023
+2878082,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,1/16/2023,January,Q1,3/9/2023,12/8/2023
+2148187,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,In app/portal features not working,,,4/21/2023,April,Q2,6/11/2023,8/29/2023
+2042536,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Making/Accepting calls,,,4/2/2023,April,Q2,7/5/2023,4/19/2023
+2562581,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,7/25/2023,July,Q3,8/1/2023,10/22/2023
+2607540,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Number port issues,,,4/19/2023,April,Q2,10/18/2023,8/20/2023
+2542145,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Remove phone number from # pool,,,10/19/2023,October,Q4,3/2/2023,1/3/2023
+2530936,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,7/1/2023,July,Q3,6/2/2023,3/15/2023
+2750405,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Invoice issues,,,1/29/2023,January,Q1,11/6/2023,9/3/2023
+2231110,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Multiline issues,,,12/28/2023,December,Q4,11/1/2023,4/19/2023
+2329879,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,1/17/2023,January,Q1,10/9/2023,4/6/2023
+2139579,,closed,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,waiting on payment,,,10/7/2023,October,Q4,5/8/2023,9/3/2023
+2277102,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Time Stamp issues,,,8/11/2023,August,Q3,1/10/2023,5/8/2023
+2354766,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Multiline issues,,,6/24/2023,June,Q2,2/19/2023,11/18/2023
+2010299,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,App availability issues,,,11/2/2023,November,Q4,10/25/2023,4/15/2023
+2815012,,closed,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Stuck in Waiting on Payment status,,,7/21/2023,July,Q3,9/11/2023,6/15/2023
+2596362,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,phone service,,,11/28/2023,November,Q4,3/31/2023,1/13/2023
+2783805,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,phone service,,,8/7/2023,August,Q3,2/10/2023,5/26/2023
+2436444,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,Remove phone number from # pool,,,11/16/2023,November,Q4,12/27/2023,1/3/2023
+2609511,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,4/2/2023,April,Q2,1/26/2023,6/29/2023
+2397433,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,App freezing,,,11/16/2023,November,Q4,6/26/2023,12/5/2023
+2869743,,closed,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,App availability issues,,,2/11/2023,February,Q1,6/2/2023,6/22/2023
+2663834,,closed,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Number port issues,,,6/5/2023,June,Q2,10/8/2023,12/12/2023
+2364552,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,11/18/2023,November,Q4,3/2/2023,7/12/2023
+2936310,,new,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,In app/portal features not working,,,10/28/2023,October,Q4,8/22/2023,12/3/2023
+2464789,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,App freezing,,,4/1/2023,April,Q2,5/28/2023,8/10/2023
+2142260,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,Multiline issues,,,6/20/2023,June,Q2,8/22/2023,12/20/2023
+2182369,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App availability issues,,,1/2/2024,January,Q1,4/19/2023,1/18/2023
+2685332,,open,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,App availability issues,,,2/17/2023,February,Q1,8/30/2023,1/28/2023
+2773720,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,phone service,,,1/7/2024,January,Q1,2/15/2023,9/5/2023
+2443160,,new,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Voicemail Issues,,,5/20/2023,May,Q2,6/30/2023,11/12/2023
+2889883,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,11/7/2023,November,Q4,4/6/2023,1/3/2023
+2924315,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Voicemail Issues,,,8/10/2023,August,Q3,10/9/2023,11/10/2023
+2212128,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,App availability issues,,,10/13/2023,October,Q4,4/20/2023,1/12/2023
+2421590,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,App freezing,,,4/9/2023,April,Q2,1/10/2023,2/7/2023
+2809373,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Remove phone number from # pool,,,7/16/2023,July,Q3,11/15/2023,6/29/2023
+2381666,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,General,waiting on payment,,,11/14/2023,November,Q4,4/22/2023,3/26/2023
+2599450,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Web,Time Stamp issues,,,1/4/2024,January,Q1,7/9/2023,5/27/2023
+2212124,,open,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App availability issues,,,2/10/2023,February,Q1,6/5/2023,7/25/2023
+2556201,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,Multiline issues,,,5/5/2023,May,Q2,9/12/2023,1/6/2023
+2299300,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,App freezing,,,10/24/2023,October,Q4,6/10/2023,4/2/2023
+2237307,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Stuck in Waiting on Payment status,,,9/18/2023,September,Q3,10/26/2023,10/20/2023
+2557462,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,Android,Multiline issues,,,11/21/2023,November,Q4,11/28/2023,4/21/2023
+2097969,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Time Stamp issues,,,11/9/2023,November,Q4,9/6/2023,12/26/2023
+2124657,,closed,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,VO and PS not linked correctly,,,3/21/2023,March,Q1,6/14/2023,10/21/2023
+2426526,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Multiline issues,,,3/19/2023,March,Q1,10/2/2023,9/18/2023
+2279718,,new,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,Issues loading text/call logs/voicemails,,,2/4/2023,February,Q1,3/1/2023,9/5/2023
+2472123,,open,2 normal,Phone Service,Diego,Luke,Corporate Tools,note,Customer,General,Automated Email issues,,,3/14/2023,March,Q1,8/21/2023,8/14/2023
+2210829,,new,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,iOS,In app/portal features not working,,,9/15/2023,September,Q3,7/3/2023,8/30/2023
+2865397,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Automated Email issues,,,4/20/2023,April,Q2,8/19/2023,9/22/2023
+2967431,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,waiting on payment,,,1/17/2023,January,Q1,1/21/2023,12/5/2023
+2209949,,open,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Voicemail Issues,,,9/24/2023,September,Q3,6/9/2023,2/22/2023
+2797352,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Automated Email issues,,,2/10/2023,February,Q1,3/10/2023,4/20/2023
+2775674,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Multiline issues,,,12/5/2023,December,Q4,10/14/2023,11/4/2023
+2971828,,new,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,Invoice issues,,,2/19/2023,February,Q1,11/18/2023,8/14/2023
+2016057,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,iOS,phone service,,,10/5/2023,October,Q4,3/18/2023,7/29/2023
+2810167,,new,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,iOS,Automated Email issues,,,3/14/2023,March,Q1,7/1/2023,5/22/2023
+2648693,,open,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,VO and PS not linked correctly,,,11/18/2023,November,Q4,11/12/2023,6/11/2023
+2181090,,new,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,General,waiting on payment,,,1/5/2024,January,Q1,1/13/2023,1/27/2023
+2088244,,new,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Invoice issues,,,6/27/2023,June,Q2,7/15/2023,6/26/2023
+2218816,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,App freezing,,,10/20/2023,October,Q4,5/4/2023,10/28/2023
+2516258,,open,3 high,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Android,Voicemail Issues,,,1/24/2023,January,Q1,7/25/2023,1/30/2023
+2864210,,open,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Number port issues,,,7/27/2023,July,Q3,8/20/2023,6/27/2023
+2957307,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Web,VO and PS not linked correctly,,,11/18/2023,November,Q4,5/18/2023,10/26/2023
+2745219,,open,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,Number port issues,,,2/23/2023,February,Q1,12/28/2023,7/15/2023
+2837072,,open,3 high,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,9/12/2023,September,Q3,9/16/2023,1/1/2023
+2242878,,new,2 normal,Phone Service,Diego,James,Corporate Tools,note,Customer,General,In app/portal features not working,,,7/22/2023,July,Q3,5/4/2023,7/31/2023
+2757477,,open,2 normal,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,Issues loading text/call logs/voicemails,,,12/13/2023,December,Q4,7/29/2023,10/11/2023
+2829375,,closed,1 low,Phone Service,Diego,Smudge,Corporate Tools,note,Customer,General,waiting on payment,,,4/28/2023,April,Q2,5/30/2023,5/30/2023
+2029999,,closed,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,In app/portal features not working,,,1/15/2023,January,Q1,1/11/2023,10/15/2023
+2702180,,closed,1 low,Phone Service,Diego,James,Corporate Tools,note,Customer,Web,Stuck in Waiting on Payment status,,,3/19/2023,March,Q1,12/19/2023,1/7/2024
+2791166,,new,1 low,Phone Service,Diego,Richard,Corporate Tools,note,Customer,Web,Automated Email issues,,,2/6/2023,February,Q1,10/28/2023,7/8/2023
+2789895,,new,3 high,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Invoice issues,,,3/8/2023,March,Q1,7/28/2023,1/3/2024
+2447973,,open,2 normal,Phone Service,Diego,Richard,Corporate Tools,note,Customer,iOS,Time Stamp issues,,,9/13/2023,September,Q3,7/31/2023,2/16/2023
+2047536,,closed,3 high,Phone Service,Diego,James,Corporate Tools,note,Customer,Android,In app/portal features not working,,,12/2/2023,December,Q4,4/15/2023,5/21/2023
+2472731,,open,1 low,Phone Service,Diego,Luke,Corporate Tools,note,Customer,Android,Multiline issues,,,8/29/2023,August,Q3,4/1/2023,12/8/2023
