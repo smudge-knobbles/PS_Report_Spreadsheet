@@ -6,8 +6,8 @@ In order to develop this tool at home without taking any client data off work sy
 
 There are 3 visible Sheets and 3 hidden Sheets.  The first sheet is named "Start Here" and has instructions and 2 large buttons.  The first button deletes any report data left over from a previous use of the tool.  The second button runs several VBA subroutines to clean the data, copy it into a named Table, then refresh the Pivot Charts based on that Table.
 
-The report data on the tickets had all ticket tag text crammed into a single column (each ticket has at least 2 tags).  The code splits the data from the "Tags" column into two new columns and trims off exteraneous text (specifically "Primary Tag - " and "Secondary Tag - ").  The script also creates "Month" and "Quarter" columns based on the "Created At" column.
+The report data on the tickets had all ticket tag text crammed into a single column (each ticket has at least 2 tags).  The VBA code splits the data from the "Tags" column into two new columns and trims off exteraneous text (specifically "Primary Tag - " and "Secondary Tag - ").  The script also creates "Month" and "Quarter" columns based on the "Created At" column.
 
 Slicers under the Pivot Tables allow the user to easily modify the parameters of the charts.
 
-"PS Ticket Reports.xlsm" is the tool I created.  The 3 csv files in the "data" folder are different sets of dummy data.
+"PS Ticket Reports.xlsm" is the tool I created.  The 3 csv files in the "data" folder are different sets of generated dummy data.
